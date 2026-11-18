@@ -1,0 +1,542 @@
+{
+  "date": "2026-11-18",
+  "tabs": {
+    "行业板块": [
+      {
+        "plate_id": "19426649",
+        "plate_name": "PCB板",
+        "core_avg_pcp": 0.016940190460377355,
+        "top10_stocks": [
+          {
+            "name": "生益电子",
+            "symbol": "688183.SS",
+            "change_percent": 0.1852656198
+          },
+          {
+            "name": "长联科技",
+            "symbol": "301618.SZ",
+            "change_percent": 0.1227906977
+          },
+          {
+            "name": "深南电路",
+            "symbol": "002916.SZ",
+            "change_percent": 0.1
+          },
+          {
+            "name": "沪电股份",
+            "symbol": "002463.SZ",
+            "change_percent": 0.1
+          },
+          {
+            "name": "华工科技",
+            "symbol": "000988.SZ",
+            "change_percent": 0.0892740353
+          },
+          {
+            "name": "兴森科技",
+            "symbol": "002436.SZ",
+            "change_percent": 0.0813041684
+          },
+          {
+            "name": "景旺电子",
+            "symbol": "603228.SS",
+            "change_percent": 0.0720140515
+          },
+          {
+            "name": "鹏鼎控股",
+            "symbol": "002938.SZ",
+            "change_percent": 0.0670903955
+          },
+          {
+            "name": "胜宏科技",
+            "symbol": "300476.SZ",
+            "change_percent": 0.0641841317
+          },
+          {
+            "name": "南亚新材",
+            "symbol": "688519.SS",
+            "change_percent": 0.0627306273
+          }
+        ],
+        "constituent_count": 124,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "22114510",
+        "plate_name": "玻纤",
+        "core_avg_pcp": 0.015203082354545453,
+        "top10_stocks": [
+          {
+            "name": "宏和科技",
+            "symbol": "603256.SS",
+            "change_percent": 0.0384615385
+          },
+          {
+            "name": "中材科技",
+            "symbol": "002080.SZ",
+            "change_percent": 0.0279461279
+          },
+          {
+            "name": "金安国纪",
+            "symbol": "002636.SZ",
+            "change_percent": 0.0240963855
+          },
+          {
+            "name": "国际复材",
+            "symbol": "301526.SZ",
+            "change_percent": 0.0201421801
+          },
+          {
+            "name": "中国巨石",
+            "symbol": "600176.SS",
+            "change_percent": 0.0161042945
+          },
+          {
+            "name": "平安电工",
+            "symbol": "001359.SZ",
+            "change_percent": 0.0152084757
+          },
+          {
+            "name": "卓郎智能",
+            "symbol": "600545.SS",
+            "change_percent": 0.014084507
+          },
+          {
+            "name": "山东玻纤",
+            "symbol": "605006.SS",
+            "change_percent": 0.0092592593
+          },
+          {
+            "name": "冀中能源",
+            "symbol": "000937.SZ",
+            "change_percent": 0.0047393365
+          },
+          {
+            "name": "再升科技",
+            "symbol": "603601.SS",
+            "change_percent": 0.0028694405
+          }
+        ],
+        "constituent_count": 12,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "17627122",
+        "plate_name": "航运",
+        "core_avg_pcp": 0.015188494226315788,
+        "top10_stocks": [
+          {
+            "name": "招商轮船",
+            "symbol": "601872.SS",
+            "change_percent": 0.0594059406
+          },
+          {
+            "name": "中远海特",
+            "symbol": "600428.SS",
+            "change_percent": 0.0489443378
+          },
+          {
+            "name": "招商南油",
+            "symbol": "601975.SS",
+            "change_percent": 0.0439882698
+          },
+          {
+            "name": "中远海能",
+            "symbol": "600026.SS",
+            "change_percent": 0.0416411513
+          },
+          {
+            "name": "凤凰航运",
+            "symbol": "000520.SZ",
+            "change_percent": 0.03515625
+          },
+          {
+            "name": "海通发展",
+            "symbol": "603162.SS",
+            "change_percent": 0.0174672489
+          },
+          {
+            "name": "XD锦江航",
+            "symbol": "601083.SS",
+            "change_percent": 0.0146412884
+          },
+          {
+            "name": "安通控股",
+            "symbol": "600179.SS",
+            "change_percent": 0.0105820106
+          },
+          {
+            "name": "中远海控",
+            "symbol": "601919.SS",
+            "change_percent": 0.0097645032
+          },
+          {
+            "name": "海航科技",
+            "symbol": "600751.SS",
+            "change_percent": 0.0076628352
+          }
+        ],
+        "constituent_count": 24,
+        "skipped_no_data": 0
+      }
+    ],
+    "概念板块": [
+      {
+        "plate_id": "70267282",
+        "plate_name": "超节点",
+        "core_avg_pcp": 0.04175019581874999,
+        "top10_stocks": [
+          {
+            "name": "协创数据",
+            "symbol": "300857.SZ",
+            "change_percent": 0.1802182926
+          },
+          {
+            "name": "华丰科技",
+            "symbol": "688629.SS",
+            "change_percent": 0.1462232988
+          },
+          {
+            "name": "沪电股份",
+            "symbol": "002463.SZ",
+            "change_percent": 0.1
+          },
+          {
+            "name": "川润股份",
+            "symbol": "002272.SZ",
+            "change_percent": 0.0996503497
+          },
+          {
+            "name": "华工科技",
+            "symbol": "000988.SZ",
+            "change_percent": 0.0892740353
+          },
+          {
+            "name": "先进数通",
+            "symbol": "300541.SZ",
+            "change_percent": 0.0822711472
+          },
+          {
+            "name": "润泽科技",
+            "symbol": "300442.SZ",
+            "change_percent": 0.0763152823
+          },
+          {
+            "name": "恒为科技",
+            "symbol": "603496.SS",
+            "change_percent": 0.0733899151
+          },
+          {
+            "name": "意华股份",
+            "symbol": "002897.SZ",
+            "change_percent": 0.0616557734
+          },
+          {
+            "name": "君逸数码",
+            "symbol": "301172.SZ",
+            "change_percent": 0.0511562719
+          }
+        ],
+        "constituent_count": 34,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "67902418",
+        "plate_name": "词元概念/Token",
+        "core_avg_pcp": 0.0276716871875,
+        "top10_stocks": [
+          {
+            "name": "润建股份",
+            "symbol": "002929.SZ",
+            "change_percent": 0.1000613874
+          },
+          {
+            "name": "利通电子",
+            "symbol": "603629.SS",
+            "change_percent": 0.1000180538
+          },
+          {
+            "name": "美利云",
+            "symbol": "000815.SZ",
+            "change_percent": 0.099923136
+          },
+          {
+            "name": "优刻得",
+            "symbol": "688158.SS",
+            "change_percent": 0.0887189293
+          },
+          {
+            "name": "奥瑞德",
+            "symbol": "600666.SS",
+            "change_percent": 0.0763888889
+          },
+          {
+            "name": "摩尔线程",
+            "symbol": "688795.SS",
+            "change_percent": 0.0728266848
+          },
+          {
+            "name": "亚康股份",
+            "symbol": "301085.SZ",
+            "change_percent": 0.0711393869
+          },
+          {
+            "name": "铜牛信息",
+            "symbol": "300895.SZ",
+            "change_percent": 0.0648431974
+          },
+          {
+            "name": "思特奇",
+            "symbol": "300608.SZ",
+            "change_percent": 0.06401766
+          },
+          {
+            "name": "东方国信",
+            "symbol": "300166.SZ",
+            "change_percent": 0.0627376426
+          }
+        ],
+        "constituent_count": 35,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "95687070",
+        "plate_name": "算力一体机",
+        "core_avg_pcp": 0.027272605030769233,
+        "top10_stocks": [
+          {
+            "name": "平治信息",
+            "symbol": "300571.SZ",
+            "change_percent": 0.1394632644
+          },
+          {
+            "name": "润建股份",
+            "symbol": "002929.SZ",
+            "change_percent": 0.1000613874
+          },
+          {
+            "name": "首都在线",
+            "symbol": "300846.SZ",
+            "change_percent": 0.0948492462
+          },
+          {
+            "name": "先进数通",
+            "symbol": "300541.SZ",
+            "change_percent": 0.0822711472
+          },
+          {
+            "name": "恒为科技",
+            "symbol": "603496.SS",
+            "change_percent": 0.0733899151
+          },
+          {
+            "name": "摩尔线程",
+            "symbol": "688795.SS",
+            "change_percent": 0.0728266848
+          },
+          {
+            "name": "拓维信息",
+            "symbol": "002261.SZ",
+            "change_percent": 0.0714285714
+          },
+          {
+            "name": "亚康股份",
+            "symbol": "301085.SZ",
+            "change_percent": 0.0711393869
+          },
+          {
+            "name": "润和软件",
+            "symbol": "300339.SZ",
+            "change_percent": 0.0456953642
+          },
+          {
+            "name": "航锦科技",
+            "symbol": "000818.SZ",
+            "change_percent": 0.042988741
+          }
+        ],
+        "constituent_count": 39,
+        "skipped_no_data": 0
+      }
+    ],
+    "风格板块": [
+      {
+        "plate_id": "13011026",
+        "plate_name": "高价股",
+        "core_avg_pcp": 0.01088932404782608,
+        "top10_stocks": [
+          {
+            "name": "宏景科技",
+            "symbol": "301396.SZ",
+            "change_percent": 0.2
+          },
+          {
+            "name": "协创数据",
+            "symbol": "300857.SZ",
+            "change_percent": 0.1802182926
+          },
+          {
+            "name": "深南电路",
+            "symbol": "002916.SZ",
+            "change_percent": 0.1
+          },
+          {
+            "name": "胜宏科技",
+            "symbol": "300476.SZ",
+            "change_percent": 0.0641841317
+          },
+          {
+            "name": "太辰光",
+            "symbol": "300570.SZ",
+            "change_percent": 0.0632358912
+          },
+          {
+            "name": "德明利",
+            "symbol": "001309.SZ",
+            "change_percent": 0.0577715092
+          },
+          {
+            "name": "长芯博创",
+            "symbol": "300548.SZ",
+            "change_percent": 0.0559575053
+          },
+          {
+            "name": "鼎泰高科",
+            "symbol": "301377.SZ",
+            "change_percent": 0.0487804878
+          },
+          {
+            "name": "光智科技",
+            "symbol": "300489.SZ",
+            "change_percent": 0.0483001172
+          },
+          {
+            "name": "天孚通信",
+            "symbol": "300394.SZ",
+            "change_percent": 0.0459803078
+          }
+        ],
+        "constituent_count": 71,
+        "skipped_no_data": 2
+      },
+      {
+        "plate_id": "93250001",
+        "plate_name": "回购增持再贷款",
+        "core_avg_pcp": 0.007422295565217389,
+        "top10_stocks": [
+          {
+            "name": "山鹰国际",
+            "symbol": "600567.SS",
+            "change_percent": 0.0823529412
+          },
+          {
+            "name": "招商轮船",
+            "symbol": "601872.SS",
+            "change_percent": 0.0594059406
+          },
+          {
+            "name": "中远海特",
+            "symbol": "600428.SS",
+            "change_percent": 0.0489443378
+          },
+          {
+            "name": "中远海能",
+            "symbol": "600026.SS",
+            "change_percent": 0.0416411513
+          },
+          {
+            "name": "兆易创新",
+            "symbol": "603986.SS",
+            "change_percent": 0.0233035048
+          },
+          {
+            "name": "招商港口",
+            "symbol": "001872.SZ",
+            "change_percent": 0.01578354
+          },
+          {
+            "name": "中国石化",
+            "symbol": "600028.SS",
+            "change_percent": 0.013582343
+          },
+          {
+            "name": "中远海控",
+            "symbol": "601919.SS",
+            "change_percent": 0.0097645032
+          },
+          {
+            "name": "中国外运",
+            "symbol": "601598.SS",
+            "change_percent": 0.0095108696
+          },
+          {
+            "name": "中远海发",
+            "symbol": "601866.SS",
+            "change_percent": 0.0042553191
+          }
+        ],
+        "constituent_count": 23,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "27292178",
+        "plate_name": "中字头",
+        "core_avg_pcp": 0.0021018163709090915,
+        "top10_stocks": [
+          {
+            "name": "*ST高科",
+            "symbol": "600730.SS",
+            "change_percent": 0.056851312
+          },
+          {
+            "name": "中国联通",
+            "symbol": "600050.SS",
+            "change_percent": 0.0248868778
+          },
+          {
+            "name": "中国国贸",
+            "symbol": "600007.SS",
+            "change_percent": 0.0218678815
+          },
+          {
+            "name": "中国船舶",
+            "symbol": "600150.SS",
+            "change_percent": 0.0214832254
+          },
+          {
+            "name": "中国移动",
+            "symbol": "600941.SS",
+            "change_percent": 0.0207224335
+          },
+          {
+            "name": "中国海油",
+            "symbol": "600938.SS",
+            "change_percent": 0.0183455637
+          },
+          {
+            "name": "中国重汽",
+            "symbol": "000951.SZ",
+            "change_percent": 0.0181818182
+          },
+          {
+            "name": "中国人保",
+            "symbol": "601319.SS",
+            "change_percent": 0.0165061898
+          },
+          {
+            "name": "中国动力",
+            "symbol": "600482.SS",
+            "change_percent": 0.016254417
+          },
+          {
+            "name": "中国巨石",
+            "symbol": "600176.SS",
+            "change_percent": 0.0161042945
+          }
+        ],
+        "constituent_count": 56,
+        "skipped_no_data": 0
+      }
+    ]
+  }
+}
