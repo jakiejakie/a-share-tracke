@@ -98,22 +98,67 @@ def collect_plates():
                 errors.append(f'{tab} {rec["plate_name"]}({pid}): {e}')
     return tabs,errors
 
+
 def fetch_kline(code):
-    secid=('0.' if code.startswith('15') else '1.')+code
-    url='https://push2his.eastmoney.com/api/qt/stock/kline/get'
-    params={'secid':secid,'klt':101,'fqt':1,'fields1':'f1,f2,f3,f4,f5,f6','fields2':'f51,f52,f53,f54,f55,f56,f57,f58,f59,f60,f61','beg':0,'end':20500101,'lmt':60}
-    # Establish site context before the bounded 3-attempt API call.
-    try: SESSION.get('https://quote.eastmoney.com/sh512400.html',timeout=12)
-    except requests.RequestException: pass
-    obj=get_json(url,params)
-    lines=(obj.get('data') or {}).get('klines')
-    if not isinstance(lines,list) or len(lines)<21: raise FetchError(f'{code}: K线不足21根或接口无数据')
-    out=[]
+    code = str(code).strip().zfill(6)
+
+    # 上海市场：5、6、9开头，以及科创板指数000688
+    # 深圳市场：1、2、3开头
+    if code == '000688':
+        secid = '1.000688'
+    elif code.startswith(('5', '6', '9')):
+        secid = '1.' + code
+    elif code.startswith(('1', '2', '3')):
+        secid = '0.' + code
+    else:
+        raise FetchError(f'{code}: 无法识别证券市场')
+
+    url = 'https://push2his.eastmoney.com/api/qt/stock/kline/get'
+
+    params = {
+        'secid': secid,
+        'klt': 101,
+        'fqt': 1,
+        'fields1': 'f1,f2,f3,f4,f5,f6',
+        'fields2': 'f51,f52,f53,f54,f55,f56,f57,f58,f59,f60,f61',
+        'beg': '0',
+        'end': '20500101',
+        'lmt': 60
+    }
+
+    # 不再访问东方财富网页预热Session
+    obj = get_json(url, params)
+
+    if not isinstance(obj, dict):
+        raise FetchError(f'{code}: 接口返回格式异常')
+
+    data = obj.get('data') or {}
+    lines = data.get('klines')
+
+    if not isinstance(lines, list) or len(lines) < 21:
+        raise FetchError(f'{code}: K线不足21根或接口无数据')
+
+    out = []
+
     for line in lines:
-        f=line.split(',')
-        if len(f)<6: raise FetchError(f'{code}: K线字段不足')
-        out.append({'date':f[0],'close':float(f[2]),'volume':float(f[5])})
+        f = line.split(',')
+
+        if len(f) < 6:
+            raise FetchError(f'{code}: K线字段不足')
+
+        try:
+            out.append({
+                'date': f[0],
+                'close': float(f[2]),
+                'volume': float(f[5])
+            })
+        except (ValueError, TypeError, IndexError) as exc:
+            raise FetchError(
+                f'{code}: K线数据解析失败: {exc}'
+            ) from exc
+
     return out
+
 
 def ma(lines,n,offset=0):
     end=len(lines)-offset
