@@ -5,7 +5,7 @@
       {
         "plate_id": "19426649",
         "plate_name": "PCB板",
-        "core_avg_pcp": 0.016940190460377355,
+        "core_avg_pcp": 0.016940190460377362,
         "top10_stocks": [
           {
             "name": "生益电子",
@@ -184,7 +184,7 @@
       {
         "plate_id": "70267282",
         "plate_name": "超节点",
-        "core_avg_pcp": 0.04175019581874999,
+        "core_avg_pcp": 0.04175019581875,
         "top10_stocks": [
           {
             "name": "协创数据",
@@ -363,7 +363,7 @@
       {
         "plate_id": "13011026",
         "plate_name": "高价股",
-        "core_avg_pcp": 0.01088932404782608,
+        "core_avg_pcp": 0.010889324047826086,
         "top10_stocks": [
           {
             "name": "宏景科技",
@@ -422,7 +422,7 @@
       {
         "plate_id": "93250001",
         "plate_name": "回购增持再贷款",
-        "core_avg_pcp": 0.007422295565217389,
+        "core_avg_pcp": 0.007422295565217393,
         "top10_stocks": [
           {
             "name": "山鹰国际",
