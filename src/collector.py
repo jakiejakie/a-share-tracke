@@ -11,19 +11,48 @@ SESSION.headers.update({'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKi
 
 class FetchError(Exception): pass
 
+
 def get_json(url, params=None):
+    import random
+
     last = None
+
     for attempt in range(3):
         try:
-            r = SESSION.get(url,params=params,timeout=18)
-            r.raise_for_status()
-            obj = r.json()
-            if not isinstance(obj,dict): raise ValueError('non-object JSON')
-            return obj
+            # 每次重试使用独立连接，避免复用异常连接
+            with requests.Session() as session:
+                session.headers.update({
+                    'User-Agent': 'Mozilla/5.0',
+                    'Accept': 'application/json, text/plain, */*',
+                    'Connection': 'close'
+                })
+
+                r = session.get(
+                    url,
+                    params=params,
+                    timeout=(8, 18)
+                )
+
+                r.raise_for_status()
+                obj = r.json()
+
+                if not isinstance(obj, dict):
+                    raise ValueError('non-object JSON')
+
+                return obj
+
         except (requests.RequestException, ValueError) as e:
             last = e
-            if attempt < 2: time.sleep(2*(attempt+1))
-    raise FetchError(f'{urlparse(url).netloc}: {last}')
+
+            if attempt < 2:
+                delay = 2 ** (attempt + 1) + random.uniform(0, 2)
+                time.sleep(delay)
+
+    raise FetchError(
+        f'{urlparse(url).netloc}: '
+        f'3次请求均失败，最后错误: {last}'
+    )
+
 
 def market_date():
     obj=get_json('https://api-ddc-wscn.xuangubao.com.cn/market/trend',{'fields':'tick_at,close_px','prod_code':'000001.SS'})
