@@ -128,65 +128,64 @@ def collect_plates():
     return tabs,errors
 
 
+
 def fetch_kline(code):
     code = str(code).strip().zfill(6)
 
-    # 上海市场：5、6、9开头，以及科创板指数000688
-    # 深圳市场：1、2、3开头
+    # 交易所判断
     if code == '000688':
-        secid = '1.000688'
+        symbol = 'sh000688'
     elif code.startswith(('5', '6', '9')):
-        secid = '1.' + code
+        symbol = 'sh' + code
     elif code.startswith(('1', '2', '3')):
-        secid = '0.' + code
+        symbol = 'sz' + code
     else:
         raise FetchError(f'{code}: 无法识别证券市场')
 
-    url = 'https://push2his.eastmoney.com/api/qt/stock/kline/get'
+    url = 'https://web.ifzq.gtimg.cn/appstock/app/fqkline/get'
 
     params = {
-        'secid': secid,
-        'klt': 101,
-        'fqt': 1,
-        'fields1': 'f1,f2,f3,f4,f5,f6',
-        'fields2': 'f51,f52,f53,f54,f55,f56,f57,f58,f59,f60,f61',
-        'beg': '0',
-        'end': '20500101',
-        'lmt': 60
+        'param': f'{symbol},day,,,80,qfq'
     }
 
-    # 不再访问东方财富网页预热Session
-    obj = get_json(url, params)
+    try:
+        obj = get_json(url, params)
+        data = (obj.get('data') or {}).get(symbol) or {}
 
-    if not isinstance(obj, dict):
-        raise FetchError(f'{code}: 接口返回格式异常')
+        # 腾讯可能返回 qfqday 或 day
+        lines = data.get('qfqday') or data.get('day')
 
-    data = obj.get('data') or {}
-    lines = data.get('klines')
-
-    if not isinstance(lines, list) or len(lines) < 21:
-        raise FetchError(f'{code}: K线不足21根或接口无数据')
-
-    out = []
-
-    for line in lines:
-        f = line.split(',')
-
-        if len(f) < 6:
-            raise FetchError(f'{code}: K线字段不足')
-
-        try:
-            out.append({
-                'date': f[0],
-                'close': float(f[2]),
-                'volume': float(f[5])
-            })
-        except (ValueError, TypeError, IndexError) as exc:
+        if not isinstance(lines, list) or len(lines) < 21:
             raise FetchError(
-                f'{code}: K线数据解析失败: {exc}'
-            ) from exc
+                f'{code}: 腾讯K线不足21根或无数据'
+            )
 
-    return out
+        out = []
+
+        for row in lines:
+            if not isinstance(row, list) or len(row) < 6:
+                raise FetchError(f'{code}: K线字段异常')
+
+            out.append({
+                'date': row[0],
+                'close': float(row[2]),
+                'volume': float(row[5])
+            })
+
+        # 防止日期乱序或重复
+        out.sort(key=lambda x: x['date'])
+
+        dates = [x['date'] for x in out]
+        if len(dates) != len(set(dates)):
+            raise FetchError(f'{code}: 存在重复K线日期')
+
+        return out
+
+    except (requests.RequestException, ValueError,
+            TypeError, KeyError) as exc:
+        raise FetchError(
+            f'{code}: 腾讯行情获取失败: {exc}'
+        ) from exc
 
 
 def ma(lines,n,offset=0):
