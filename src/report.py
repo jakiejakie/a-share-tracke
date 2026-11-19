@@ -1,5 +1,6 @@
 from pathlib import Path
 import json
+import markdown
 
 def compare(today, folder):
     paths=sorted(x for x in Path(folder).glob('????-??-??.json') if x.stem<today['date'])
