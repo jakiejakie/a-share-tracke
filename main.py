@@ -2,6 +2,8 @@ import json
 import os
 import smtplib
 import sys
+import markdown
+from html import escape
 from datetime import datetime
 from email.message import EmailMessage
 from pathlib import Path
@@ -12,18 +14,116 @@ from src.report import compare,render
 ROOT=Path(__file__).resolve().parent
 TODAY=datetime.now(ZoneInfo('Asia/Shanghai')).date().isoformat()
 
-def mail(subject,body):
-    host=os.environ.get('SMTP_HOST'); user=os.environ.get('SMTP_USER');password=os.environ.get('SMTP_PASSWORD')
-    sender=os.environ.get('MAIL_FROM') or user;to=os.environ.get('MAIL_TO')
-    if not all((host,user,password,sender,to)):raise RuntimeError('缺少SMTP_HOST/SMTP_USER/SMTP_PASSWORD/MAIL_TO')
-    msg=EmailMessage();msg['Subject']=subject;msg['From']=sender;msg['To']=to
+
+def mail(subject, body):
+    host = os.environ.get('SMTP_HOST')
+    user = os.environ.get('SMTP_USER')
+    password = os.environ.get('SMTP_PASSWORD')
+    sender = os.environ.get('MAIL_FROM') or user
+    to = os.environ.get('MAIL_TO')
+
+    if not all((host, user, password, sender, to)):
+        raise RuntimeError(
+            '缺少SMTP_HOST/SMTP_USER/SMTP_PASSWORD/MAIL_TO'
+        )
+
+    # Markdown转换为HTML，支持真正的表格
+    html_content = markdown.markdown(
+        body,
+        extensions=['tables', 'fenced_code']
+    )
+
+    # 邮件客户端对CSS支持有限，使用内联样式
+    import re
+
+    html_content = re.sub(
+        r'<table>',
+        '<table style="border-collapse:collapse;'
+        'width:100%;font-size:13px;margin:12px 0 20px;">',
+        html_content
+    )
+
+    html_content = re.sub(
+        r'<th>',
+        '<th style="background:#eaf0f8;'
+        'border:1px solid #cbd5e1;'
+        'padding:9px 10px;text-align:left;'
+        'font-weight:bold;">',
+        html_content
+    )
+
+    html_content = re.sub(
+        r'<td>',
+        '<td style="border:1px solid #dbe2ea;'
+        'padding:8px 10px;text-align:left;">',
+        html_content
+    )
+
+    html_content = re.sub(
+        r'<h1>',
+        '<h1 style="font-size:22px;color:#17365d;">',
+        html_content
+    )
+
+    html_content = re.sub(
+        r'<h2>',
+        '<h2 style="font-size:18px;color:#17365d;'
+        'margin-top:28px;border-bottom:1px solid #ddd;'
+        'padding-bottom:6px;">',
+        html_content
+    )
+
+    html_content = re.sub(
+        r'<h3>',
+        '<h3 style="font-size:15px;margin-top:20px;">',
+        html_content
+    )
+
+    html_body = f"""
+    <!DOCTYPE html>
+    <html>
+    <head>
+      <meta charset="utf-8">
+    </head>
+    <body style="
+        font-family:Arial,'Microsoft YaHei',sans-serif;
+        color:#263238;
+        font-size:14px;
+        line-height:1.6;
+        margin:16px;
+    ">
+      <div style="max-width:1000px;margin:auto;">
+        {html_content}
+      </div>
+    </body>
+    </html>
+    """
+
+    msg = EmailMessage()
+    msg['Subject'] = subject
+    msg['From'] = sender
+    msg['To'] = to
+
+    # 同时提供纯文本与HTML版本
     msg.set_content(body)
-    port=int(os.environ.get('SMTP_PORT','465'))
-    if port==465:
-        with smtplib.SMTP_SSL(host,port,timeout=30) as s:s.login(user,password);s.send_message(msg)
+    msg.add_alternative(html_body, subtype='html')
+
+    port = int(os.environ.get('SMTP_PORT', '465'))
+
+    if port == 465:
+        with smtplib.SMTP_SSL(
+            host, port, timeout=30
+        ) as s:
+            s.login(user, password)
+            s.send_message(msg)
     else:
-        with smtplib.SMTP(host,port,timeout=30) as s:
-            s.starttls();s.login(user,password);s.send_message(msg)
+        with smtplib.SMTP(
+            host, port, timeout=30
+        ) as s:
+            s.starttls()
+            s.login(user, password)
+            s.send_message(msg)
+
 
 def main():
     try:
