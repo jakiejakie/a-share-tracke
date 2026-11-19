@@ -64,7 +64,7 @@
       {
         "plate_id": "26083982",
         "plate_name": "环氧丙烷",
-        "core_avg_pcp": 0.0023901388312499985,
+        "core_avg_pcp": 0.0023901388312499994,
         "top10_stocks": [
           {
             "name": "红 宝 丽",
@@ -123,7 +123,7 @@
       {
         "plate_id": "17006066",
         "plate_name": "券商",
-        "core_avg_pcp": -0.0007088485235294112,
+        "core_avg_pcp": -0.0007088485235294118,
         "top10_stocks": [
           {
             "name": "国信证券",
@@ -243,7 +243,7 @@
       {
         "plate_id": "89343809",
         "plate_name": "高带宽存储器HBM",
-        "core_avg_pcp": 0.0062869002368421065,
+        "core_avg_pcp": 0.006286900236842106,
         "top10_stocks": [
           {
             "name": "耐科装备",
@@ -302,7 +302,7 @@
       {
         "plate_id": "92322322",
         "plate_name": "出海龙头",
-        "core_avg_pcp": 0.0034219529981481477,
+        "core_avg_pcp": 0.003421952998148148,
         "top10_stocks": [
           {
             "name": "科沃斯",
@@ -363,7 +363,7 @@
       {
         "plate_id": "54856094",
         "plate_name": "科创50",
-        "core_avg_pcp": 0.015530670587999996,
+        "core_avg_pcp": 0.015530670588,
         "top10_stocks": [
           {
             "name": "晶合集成",
@@ -422,7 +422,7 @@
       {
         "plate_id": "24364114",
         "plate_name": "白马股",
-        "core_avg_pcp": 0.00038067863766233734,
+        "core_avg_pcp": 0.0003806786376623379,
         "top10_stocks": [
           {
             "name": "中芯国际",
@@ -481,7 +481,7 @@
       {
         "plate_id": "6346009",
         "plate_name": "大消费",
-        "core_avg_pcp": -0.002195151483846154,
+        "core_avg_pcp": -0.0021951514838461535,
         "top10_stocks": [
           {
             "name": "九阳股份",
