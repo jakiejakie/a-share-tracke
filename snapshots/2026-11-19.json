@@ -5,7 +5,7 @@
       {
         "plate_id": "17363998",
         "plate_name": "民航",
-        "core_avg_pcp": 0.008589156958333333,
+        "core_avg_pcp": 0.008589156958333332,
         "top10_stocks": [
           {
             "name": "吉祥航空",
@@ -64,7 +64,7 @@
       {
         "plate_id": "26083982",
         "plate_name": "环氧丙烷",
-        "core_avg_pcp": 0.0023901388312500002,
+        "core_avg_pcp": 0.0023901388312499985,
         "top10_stocks": [
           {
             "name": "红 宝 丽",
@@ -123,7 +123,7 @@
       {
         "plate_id": "17006066",
         "plate_name": "券商",
-        "core_avg_pcp": -0.0007088485235294114,
+        "core_avg_pcp": -0.0007088485235294112,
         "top10_stocks": [
           {
             "name": "国信证券",
@@ -184,7 +184,7 @@
       {
         "plate_id": "6374814",
         "plate_name": "大硅片",
-        "core_avg_pcp": 0.007406634041176469,
+        "core_avg_pcp": 0.007406634041176471,
         "top10_stocks": [
           {
             "name": "华虹宏力",
@@ -243,7 +243,7 @@
       {
         "plate_id": "89343809",
         "plate_name": "高带宽存储器HBM",
-        "core_avg_pcp": 0.006286900236842106,
+        "core_avg_pcp": 0.0062869002368421065,
         "top10_stocks": [
           {
             "name": "耐科装备",
@@ -302,7 +302,7 @@
       {
         "plate_id": "92322322",
         "plate_name": "出海龙头",
-        "core_avg_pcp": 0.0034219529981481486,
+        "core_avg_pcp": 0.0034219529981481477,
         "top10_stocks": [
           {
             "name": "科沃斯",
@@ -422,7 +422,7 @@
       {
         "plate_id": "24364114",
         "plate_name": "白马股",
-        "core_avg_pcp": 0.0003806786376623376,
+        "core_avg_pcp": 0.00038067863766233734,
         "top10_stocks": [
           {
             "name": "中芯国际",
@@ -481,7 +481,7 @@
       {
         "plate_id": "6346009",
         "plate_name": "大消费",
-        "core_avg_pcp": -0.0021951514838461535,
+        "core_avg_pcp": -0.002195151483846154,
         "top10_stocks": [
           {
             "name": "九阳股份",
