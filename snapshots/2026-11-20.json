@@ -1,0 +1,477 @@
+{
+  "date": "2026-11-20",
+  "tabs": {
+    "行业板块": [
+      {
+        "plate_id": "16950418",
+        "plate_name": "养猪",
+        "core_avg_pcp": 0.006438855395999999,
+        "top10_stocks": [
+          {
+            "name": "金新农",
+            "symbol": "002548.SZ",
+            "change_percent": 0.0994152047
+          },
+          {
+            "name": "唐人神",
+            "symbol": "002567.SZ",
+            "change_percent": 0.0530726257
+          },
+          {
+            "name": "东瑞股份",
+            "symbol": "001201.SZ",
+            "change_percent": 0.050245098
+          },
+          {
+            "name": "正邦科技",
+            "symbol": "002157.SZ",
+            "change_percent": 0.0347222222
+          },
+          {
+            "name": "华统股份",
+            "symbol": "002840.SZ",
+            "change_percent": 0.0206896552
+          },
+          {
+            "name": "天邦食品",
+            "symbol": "002124.SZ",
+            "change_percent": 0.0202020202
+          },
+          {
+            "name": "新五丰",
+            "symbol": "600975.SS",
+            "change_percent": 0.0155902004
+          },
+          {
+            "name": "ST龙大",
+            "symbol": "002726.SZ",
+            "change_percent": 0.0142857143
+          },
+          {
+            "name": "天康生物",
+            "symbol": "002100.SZ",
+            "change_percent": 0.0134969325
+          },
+          {
+            "name": "神农集团",
+            "symbol": "605296.SS",
+            "change_percent": 0.0109136264
+          }
+        ],
+        "constituent_count": 33,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "16997081",
+        "plate_name": "银行",
+        "core_avg_pcp": 0.0021511828261904765,
+        "top10_stocks": [
+          {
+            "name": "工商银行",
+            "symbol": "601398.SS",
+            "change_percent": 0.032967033
+          },
+          {
+            "name": "XD中信银",
+            "symbol": "601998.SS",
+            "change_percent": 0.0309498399
+          },
+          {
+            "name": "建设银行",
+            "symbol": "601939.SS",
+            "change_percent": 0.0306946688
+          },
+          {
+            "name": "中国银行",
+            "symbol": "601988.SS",
+            "change_percent": 0.0272108844
+          },
+          {
+            "name": "交通银行",
+            "symbol": "601328.SS",
+            "change_percent": 0.0262857143
+          },
+          {
+            "name": "浦发银行",
+            "symbol": "600000.SS",
+            "change_percent": 0.0158878505
+          },
+          {
+            "name": "招商银行",
+            "symbol": "600036.SS",
+            "change_percent": 0.0156971376
+          },
+          {
+            "name": "农业银行",
+            "symbol": "601288.SS",
+            "change_percent": 0.0156862745
+          },
+          {
+            "name": "平安银行",
+            "symbol": "000001.SZ",
+            "change_percent": 0.0149501661
+          },
+          {
+            "name": "北京银行",
+            "symbol": "601169.SS",
+            "change_percent": 0.0112903226
+          }
+        ],
+        "constituent_count": 42,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "17014769",
+        "plate_name": "保险",
+        "core_avg_pcp": -0.00012626968333333296,
+        "top10_stocks": [
+          {
+            "name": "中国太保",
+            "symbol": "601601.SS",
+            "change_percent": 0.0160197166
+          },
+          {
+            "name": "中国平安",
+            "symbol": "601318.SS",
+            "change_percent": 0.0146359312
+          },
+          {
+            "name": "中国人寿",
+            "symbol": "601628.SS",
+            "change_percent": 0.0053900709
+          },
+          {
+            "name": "*ST天茂",
+            "symbol": "000627.SZ",
+            "change_percent": 0.0
+          },
+          {
+            "name": "中国人保",
+            "symbol": "601319.SS",
+            "change_percent": -0.0041666667
+          },
+          {
+            "name": "新华保险",
+            "symbol": "601336.SS",
+            "change_percent": -0.0125024419
+          },
+          {
+            "name": "中粮资本",
+            "symbol": "002423.SZ",
+            "change_percent": -0.0201342282
+          }
+        ],
+        "constituent_count": 7,
+        "skipped_no_data": 0
+      }
+    ],
+    "概念板块": [
+      {
+        "plate_id": "55911454",
+        "plate_name": "河北自贸区",
+        "core_avg_pcp": 0.04386363096666667,
+        "top10_stocks": [
+          {
+            "name": "*ST华幸",
+            "symbol": "600340.SS",
+            "change_percent": 0.1038961039
+          },
+          {
+            "name": "唐山港",
+            "symbol": "601000.SS",
+            "change_percent": 0.0192678227
+          },
+          {
+            "name": "秦港股份",
+            "symbol": "601326.SS",
+            "change_percent": 0.0084269663
+          }
+        ],
+        "constituent_count": 3,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "19522290",
+        "plate_name": "转基因",
+        "core_avg_pcp": 0.0004322208199999994,
+        "top10_stocks": [
+          {
+            "name": "万向德农",
+            "symbol": "600371.SS",
+            "change_percent": 0.0997942387
+          },
+          {
+            "name": "节能铁汉",
+            "symbol": "300197.SZ",
+            "change_percent": 0.043715847
+          },
+          {
+            "name": "大北农",
+            "symbol": "002385.SZ",
+            "change_percent": 0.0
+          },
+          {
+            "name": "隆平高科",
+            "symbol": "000998.SZ",
+            "change_percent": -0.0013157895
+          },
+          {
+            "name": "神农种业",
+            "symbol": "300189.SZ",
+            "change_percent": -0.0021978022
+          },
+          {
+            "name": "农发种业",
+            "symbol": "600313.SS",
+            "change_percent": -0.0111524164
+          },
+          {
+            "name": "苏垦农发",
+            "symbol": "601952.SS",
+            "change_percent": -0.0128534704
+          },
+          {
+            "name": "登海种业",
+            "symbol": "002041.SZ",
+            "change_percent": -0.013681592
+          },
+          {
+            "name": "敦煌种业",
+            "symbol": "600354.SS",
+            "change_percent": -0.0192307692
+          },
+          {
+            "name": "华邦健康",
+            "symbol": "002004.SZ",
+            "change_percent": -0.0202247191
+          }
+        ],
+        "constituent_count": 17,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "18469582",
+        "plate_name": "河南自贸区",
+        "core_avg_pcp": -0.01396781742857143,
+        "top10_stocks": [
+          {
+            "name": "宇通客车",
+            "symbol": "600066.SS",
+            "change_percent": 0.0346893724
+          },
+          {
+            "name": "中创智领",
+            "symbol": "601717.SS",
+            "change_percent": -0.0055521283
+          },
+          {
+            "name": "郑州银行",
+            "symbol": "002936.SZ",
+            "change_percent": -0.0113636364
+          },
+          {
+            "name": "中原高速",
+            "symbol": "600020.SS",
+            "change_percent": -0.019138756
+          },
+          {
+            "name": "中粮资本",
+            "symbol": "002423.SZ",
+            "change_percent": -0.0201342282
+          },
+          {
+            "name": "城发环境",
+            "symbol": "000885.SZ",
+            "change_percent": -0.0275862069
+          },
+          {
+            "name": "辉煌科技",
+            "symbol": "002296.SZ",
+            "change_percent": -0.0486891386
+          }
+        ],
+        "constituent_count": 7,
+        "skipped_no_data": 0
+      }
+    ],
+    "风格板块": [
+      {
+        "plate_id": "24364114",
+        "plate_name": "白马股",
+        "core_avg_pcp": -0.006268229355844153,
+        "top10_stocks": [
+          {
+            "name": "工商银行",
+            "symbol": "601398.SS",
+            "change_percent": 0.032967033
+          },
+          {
+            "name": "中芯国际",
+            "symbol": "688981.SS",
+            "change_percent": 0.0262576687
+          },
+          {
+            "name": "长江电力",
+            "symbol": "600900.SS",
+            "change_percent": 0.0239637306
+          },
+          {
+            "name": "中国神华",
+            "symbol": "601088.SS",
+            "change_percent": 0.023219205
+          },
+          {
+            "name": "中国石化",
+            "symbol": "600028.SS",
+            "change_percent": 0.0185810811
+          },
+          {
+            "name": "贵州茅台",
+            "symbol": "600519.SS",
+            "change_percent": 0.0174906349
+          },
+          {
+            "name": "中远海控",
+            "symbol": "601919.SS",
+            "change_percent": 0.0160458453
+          },
+          {
+            "name": "招商银行",
+            "symbol": "600036.SS",
+            "change_percent": 0.0156971376
+          },
+          {
+            "name": "京沪高铁",
+            "symbol": "601816.SS",
+            "change_percent": 0.014953271
+          },
+          {
+            "name": "中国平安",
+            "symbol": "601318.SS",
+            "change_percent": 0.0146359312
+          }
+        ],
+        "constituent_count": 77,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "15270174",
+        "plate_name": "高股息",
+        "core_avg_pcp": -0.010661957827480913,
+        "top10_stocks": [
+          {
+            "name": "中国石油",
+            "symbol": "601857.SS",
+            "change_percent": 0.0467141726
+          },
+          {
+            "name": "四川路桥",
+            "symbol": "600039.SS",
+            "change_percent": 0.0453488372
+          },
+          {
+            "name": "宇通客车",
+            "symbol": "600066.SS",
+            "change_percent": 0.0346893724
+          },
+          {
+            "name": "工商银行",
+            "symbol": "601398.SS",
+            "change_percent": 0.032967033
+          },
+          {
+            "name": "XD中信银",
+            "symbol": "601998.SS",
+            "change_percent": 0.0309498399
+          },
+          {
+            "name": "建设银行",
+            "symbol": "601939.SS",
+            "change_percent": 0.0306946688
+          },
+          {
+            "name": "中国银行",
+            "symbol": "601988.SS",
+            "change_percent": 0.0272108844
+          },
+          {
+            "name": "交通银行",
+            "symbol": "601328.SS",
+            "change_percent": 0.0262857143
+          },
+          {
+            "name": "鄂尔多斯",
+            "symbol": "600295.SS",
+            "change_percent": 0.0234833659
+          },
+          {
+            "name": "中国神华",
+            "symbol": "601088.SS",
+            "change_percent": 0.023219205
+          }
+        ],
+        "constituent_count": 131,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "27292178",
+        "plate_name": "中字头",
+        "core_avg_pcp": -0.013190429578181818,
+        "top10_stocks": [
+          {
+            "name": "中国石油",
+            "symbol": "601857.SS",
+            "change_percent": 0.0467141726
+          },
+          {
+            "name": "中国广核",
+            "symbol": "003816.SZ",
+            "change_percent": 0.0344827586
+          },
+          {
+            "name": "中国银行",
+            "symbol": "601988.SS",
+            "change_percent": 0.0272108844
+          },
+          {
+            "name": "中国电信",
+            "symbol": "601728.SS",
+            "change_percent": 0.0265734266
+          },
+          {
+            "name": "中国神华",
+            "symbol": "601088.SS",
+            "change_percent": 0.023219205
+          },
+          {
+            "name": "中国石化",
+            "symbol": "600028.SS",
+            "change_percent": 0.0185810811
+          },
+          {
+            "name": "中远海控",
+            "symbol": "601919.SS",
+            "change_percent": 0.0160458453
+          },
+          {
+            "name": "中国太保",
+            "symbol": "601601.SS",
+            "change_percent": 0.0160197166
+          },
+          {
+            "name": "中国平安",
+            "symbol": "601318.SS",
+            "change_percent": 0.0146359312
+          },
+          {
+            "name": "中国核电",
+            "symbol": "601985.SS",
+            "change_percent": 0.0142276423
+          }
+        ],
+        "constituent_count": 56,
+        "skipped_no_data": 0
+      }
+    ]
+  }
+}
