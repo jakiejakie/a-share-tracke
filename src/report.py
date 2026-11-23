@@ -62,6 +62,7 @@ def render(snapshot, etfs, errors, days, plate_hits, stock_hits):
             row = [
                 x['code'],
                 x['name'],
+                f'{x["daily_change_pct"]:+.2f}%',
                 fmt_num(x['close']),
                 f'{x["volume_ratio"]:.2f}',
                 fmt_num(m['5']),
