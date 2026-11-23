@@ -1,0 +1,522 @@
+{
+  "date": "2026-11-23",
+  "tabs": {
+    "行业板块": [
+      {
+        "plate_id": "19461278",
+        "plate_name": "影视",
+        "core_avg_pcp": 0.0662032244516129,
+        "top10_stocks": [
+          {
+            "name": "芒果超媒",
+            "symbol": "300413.SZ",
+            "change_percent": 0.1521178637
+          },
+          {
+            "name": "幸福蓝海",
+            "symbol": "300528.SZ",
+            "change_percent": 0.1151419558
+          },
+          {
+            "name": "华智数媒",
+            "symbol": "300426.SZ",
+            "change_percent": 0.1028901734
+          },
+          {
+            "name": "百纳千成",
+            "symbol": "300291.SZ",
+            "change_percent": 0.1025104603
+          },
+          {
+            "name": "上海电影",
+            "symbol": "601595.SS",
+            "change_percent": 0.100135318
+          },
+          {
+            "name": "横店影视",
+            "symbol": "603103.SS",
+            "change_percent": 0.1000662691
+          },
+          {
+            "name": "慈文传媒",
+            "symbol": "002343.SZ",
+            "change_percent": 0.1
+          },
+          {
+            "name": "华策影视",
+            "symbol": "300133.SZ",
+            "change_percent": 0.0994623656
+          },
+          {
+            "name": "浙文影业",
+            "symbol": "601599.SS",
+            "change_percent": 0.0993975904
+          },
+          {
+            "name": "博纳影业",
+            "symbol": "001330.SZ",
+            "change_percent": 0.0991902834
+          }
+        ],
+        "constituent_count": 39,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "24175361",
+        "plate_name": "动漫",
+        "core_avg_pcp": 0.06209561673809525,
+        "top10_stocks": [
+          {
+            "name": "宝通科技",
+            "symbol": "300031.SZ",
+            "change_percent": 0.1039574719
+          },
+          {
+            "name": "百纳千成",
+            "symbol": "300291.SZ",
+            "change_percent": 0.1025104603
+          },
+          {
+            "name": "上海电影",
+            "symbol": "601595.SS",
+            "change_percent": 0.100135318
+          },
+          {
+            "name": "掌阅科技",
+            "symbol": "603533.SS",
+            "change_percent": 0.1001323335
+          },
+          {
+            "name": "慈文传媒",
+            "symbol": "002343.SZ",
+            "change_percent": 0.1
+          },
+          {
+            "name": "华策影视",
+            "symbol": "300133.SZ",
+            "change_percent": 0.0994623656
+          },
+          {
+            "name": "博纳影业",
+            "symbol": "001330.SZ",
+            "change_percent": 0.0991902834
+          },
+          {
+            "name": "中文在线",
+            "symbol": "300364.SZ",
+            "change_percent": 0.0728021978
+          },
+          {
+            "name": "奥飞娱乐",
+            "symbol": "002292.SZ",
+            "change_percent": 0.0714285714
+          },
+          {
+            "name": "捷成股份",
+            "symbol": "300182.SZ",
+            "change_percent": 0.0695652174
+          }
+        ],
+        "constituent_count": 30,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "23773810",
+        "plate_name": "智能音箱",
+        "core_avg_pcp": 0.05750208592564104,
+        "top10_stocks": [
+          {
+            "name": "海天瑞声",
+            "symbol": "688787.SS",
+            "change_percent": 0.2
+          },
+          {
+            "name": "炬芯科技",
+            "symbol": "688049.SS",
+            "change_percent": 0.1567670193
+          },
+          {
+            "name": "紫建电子",
+            "symbol": "301121.SZ",
+            "change_percent": 0.1260364842
+          },
+          {
+            "name": "恒玄科技",
+            "symbol": "688608.SS",
+            "change_percent": 0.1079374624
+          },
+          {
+            "name": "长盈精密",
+            "symbol": "300115.SZ",
+            "change_percent": 0.1058714748
+          },
+          {
+            "name": "共达电声",
+            "symbol": "002655.SZ",
+            "change_percent": 0.1001365498
+          },
+          {
+            "name": "中京电子",
+            "symbol": "002579.SZ",
+            "change_percent": 0.1000746826
+          },
+          {
+            "name": "移远通信",
+            "symbol": "603236.SS",
+            "change_percent": 0.1000541565
+          },
+          {
+            "name": "崇达技术",
+            "symbol": "002815.SZ",
+            "change_percent": 0.1
+          },
+          {
+            "name": "瑞芯微",
+            "symbol": "603893.SS",
+            "change_percent": 0.0999783127
+          }
+        ],
+        "constituent_count": 45,
+        "skipped_no_data": 0
+      }
+    ],
+    "概念板块": [
+      {
+        "plate_id": "97970574",
+        "plate_name": "电子鼻",
+        "core_avg_pcp": 0.08257134978,
+        "top10_stocks": [
+          {
+            "name": "汉威科技",
+            "symbol": "300007.SZ",
+            "change_percent": 0.2001329787
+          },
+          {
+            "name": "迅捷兴",
+            "symbol": "688655.SS",
+            "change_percent": 0.0914634146
+          },
+          {
+            "name": "四方光电",
+            "symbol": "688665.SS",
+            "change_percent": 0.0586166471
+          },
+          {
+            "name": "汉王科技",
+            "symbol": "002362.SZ",
+            "change_percent": 0.0419475655
+          },
+          {
+            "name": "赛微电子",
+            "symbol": "300456.SZ",
+            "change_percent": 0.020696143
+          },
+          {
+            "name": "报 喜 鸟",
+            "symbol": "002154.SZ",
+            "change_percent": 0.009375
+          }
+        ],
+        "constituent_count": 6,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "47059342",
+        "plate_name": "减速器",
+        "core_avg_pcp": 0.07721024401617649,
+        "top10_stocks": [
+          {
+            "name": "恒工精密",
+            "symbol": "301261.SZ",
+            "change_percent": 0.2
+          },
+          {
+            "name": "宇树科技",
+            "symbol": "688836.SS",
+            "change_percent": 0.2
+          },
+          {
+            "name": "斯菱智驱",
+            "symbol": "301550.SZ",
+            "change_percent": 0.1610404624
+          },
+          {
+            "name": "力星股份",
+            "symbol": "300421.SZ",
+            "change_percent": 0.1467603435
+          },
+          {
+            "name": "绿的谐波",
+            "symbol": "688017.SS",
+            "change_percent": 0.127729636
+          },
+          {
+            "name": "瑞迪智驱",
+            "symbol": "301596.SZ",
+            "change_percent": 0.127643115
+          },
+          {
+            "name": "双林股份",
+            "symbol": "300100.SZ",
+            "change_percent": 0.1262195122
+          },
+          {
+            "name": "步科股份",
+            "symbol": "688160.SS",
+            "change_percent": 0.1204074209
+          },
+          {
+            "name": "丰立智能",
+            "symbol": "301368.SZ",
+            "change_percent": 0.1157790275
+          },
+          {
+            "name": "昊志机电",
+            "symbol": "300503.SZ",
+            "change_percent": 0.1137479542
+          }
+        ],
+        "constituent_count": 83,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "69474866",
+        "plate_name": "物理AI",
+        "core_avg_pcp": 0.07543166276451611,
+        "top10_stocks": [
+          {
+            "name": "宇树科技",
+            "symbol": "688836.SS",
+            "change_percent": 0.2
+          },
+          {
+            "name": "凡拓数创",
+            "symbol": "301313.SZ",
+            "change_percent": 0.1999661934
+          },
+          {
+            "name": "奥比中光",
+            "symbol": "688322.SS",
+            "change_percent": 0.1981431426
+          },
+          {
+            "name": "索辰科技",
+            "symbol": "688507.SS",
+            "change_percent": 0.1862880431
+          },
+          {
+            "name": "豪恩汽电",
+            "symbol": "301488.SZ",
+            "change_percent": 0.1570489408
+          },
+          {
+            "name": "奥普特",
+            "symbol": "688686.SS",
+            "change_percent": 0.1226337449
+          },
+          {
+            "name": "拓斯达",
+            "symbol": "300607.SZ",
+            "change_percent": 0.11058924
+          },
+          {
+            "name": "埃斯顿",
+            "symbol": "002747.SZ",
+            "change_percent": 0.1002061856
+          },
+          {
+            "name": "柯力传感",
+            "symbol": "603662.SS",
+            "change_percent": 0.0999771742
+          },
+          {
+            "name": "美芯晟",
+            "symbol": "688458.SS",
+            "change_percent": 0.0907492086
+          }
+        ],
+        "constituent_count": 33,
+        "skipped_no_data": 0
+      }
+    ],
+    "风格板块": [
+      {
+        "plate_id": "17428174",
+        "plate_name": "强势人气股",
+        "core_avg_pcp": 0.06416198190000001,
+        "top10_stocks": [
+          {
+            "name": "凡拓数创",
+            "symbol": "301313.SZ",
+            "change_percent": 0.1999661934
+          },
+          {
+            "name": "卡莱特",
+            "symbol": "301391.SZ",
+            "change_percent": 0.1251944012
+          },
+          {
+            "name": "正帆科技",
+            "symbol": "688596.SS",
+            "change_percent": 0.1159192825
+          },
+          {
+            "name": "贝特利",
+            "symbol": "301697.SZ",
+            "change_percent": 0.1085972851
+          },
+          {
+            "name": "好当家",
+            "symbol": "600467.SS",
+            "change_percent": 0.1013986014
+          },
+          {
+            "name": "东方海洋",
+            "symbol": "002086.SZ",
+            "change_percent": 0.1013333333
+          },
+          {
+            "name": "金新农",
+            "symbol": "002548.SZ",
+            "change_percent": 0.1010638298
+          },
+          {
+            "name": "澳洋健康",
+            "symbol": "002172.SZ",
+            "change_percent": 0.1008583691
+          },
+          {
+            "name": "顺灏股份",
+            "symbol": "002565.SZ",
+            "change_percent": 0.1006802721
+          },
+          {
+            "name": "荣联科技",
+            "symbol": "002642.SZ",
+            "change_percent": 0.1005509642
+          }
+        ],
+        "constituent_count": 167,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "13608562",
+        "plate_name": "密集调研",
+        "core_avg_pcp": 0.04617882389250001,
+        "top10_stocks": [
+          {
+            "name": "维宏股份",
+            "symbol": "300508.SZ",
+            "change_percent": 0.2
+          },
+          {
+            "name": "恒帅股份",
+            "symbol": "300969.SZ",
+            "change_percent": 0.1706821873
+          },
+          {
+            "name": "家联科技",
+            "symbol": "301193.SZ",
+            "change_percent": 0.1453168044
+          },
+          {
+            "name": "能辉科技",
+            "symbol": "301046.SZ",
+            "change_percent": 0.1288374434
+          },
+          {
+            "name": "超捷股份",
+            "symbol": "301005.SZ",
+            "change_percent": 0.1037637219
+          },
+          {
+            "name": "传智教育",
+            "symbol": "003032.SZ",
+            "change_percent": 0.1004962779
+          },
+          {
+            "name": "国机精工",
+            "symbol": "002046.SZ",
+            "change_percent": 0.1000719942
+          },
+          {
+            "name": "超颖电子",
+            "symbol": "603175.SS",
+            "change_percent": 0.1
+          },
+          {
+            "name": "托伦斯",
+            "symbol": "301583.SZ",
+            "change_percent": 0.0793577558
+          },
+          {
+            "name": "乔锋智能",
+            "symbol": "301603.SZ",
+            "change_percent": 0.0734720416
+          }
+        ],
+        "constituent_count": 42,
+        "skipped_no_data": 2
+      },
+      {
+        "plate_id": "13011026",
+        "plate_name": "高价股",
+        "core_avg_pcp": 0.044155381266666655,
+        "top10_stocks": [
+          {
+            "name": "福赛科技",
+            "symbol": "301529.SZ",
+            "change_percent": 0.2
+          },
+          {
+            "name": "斯菱智驱",
+            "symbol": "301550.SZ",
+            "change_percent": 0.1610404624
+          },
+          {
+            "name": "天孚通信",
+            "symbol": "300394.SZ",
+            "change_percent": 0.1381875122
+          },
+          {
+            "name": "瑞芯微",
+            "symbol": "603893.SS",
+            "change_percent": 0.0999783127
+          },
+          {
+            "name": "新易盛",
+            "symbol": "300502.SZ",
+            "change_percent": 0.0991515152
+          },
+          {
+            "name": "联特科技",
+            "symbol": "301205.SZ",
+            "change_percent": 0.0983504235
+          },
+          {
+            "name": "东田微",
+            "symbol": "301183.SZ",
+            "change_percent": 0.0883700441
+          },
+          {
+            "name": "致尚科技",
+            "symbol": "301486.SZ",
+            "change_percent": 0.0878147206
+          },
+          {
+            "name": "托伦斯",
+            "symbol": "301583.SZ",
+            "change_percent": 0.0793577558
+          },
+          {
+            "name": "汇成真空",
+            "symbol": "301392.SZ",
+            "change_percent": 0.0761595547
+          }
+        ],
+        "constituent_count": 68,
+        "skipped_no_data": 2
+      }
+    ]
+  }
+}
