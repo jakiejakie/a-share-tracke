@@ -1,7 +1,7 @@
 name: A-share daily tracker
 on:
   schedule:
-    - cron: '45 15 * * 1-5'
+    - cron: '*/5 * * * *'
       timezone: 'Asia/Shanghai'
   workflow_dispatch:
 permissions:
