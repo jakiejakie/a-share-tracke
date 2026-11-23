@@ -232,7 +232,7 @@ def render(snapshot, etfs, errors, days, plate_hits, stock_hits):
         if category == '新转多头排列':
             add_table(
                 [
-                    '代码', 'ETF', '收盘',
+                    '代码', 'ETF', '当日涨跌', '收盘',
                     '量比', 'MA5', 'MA10',
                     'MA20', '前MA5',
                     '前MA10', '前MA20'
@@ -242,8 +242,8 @@ def render(snapshot, etfs, errors, days, plate_hits, stock_hits):
         else:
             add_table(
                 [
-                    '代码', 'ETF', '收盘',
-                    '量比', 'MA5', 'MA10'
+                    '代码', 'ETF', '当日涨跌',
+                    '收盘', '量比', 'MA5', 'MA10'
                 ],
                 etf_rows(items)
             )
