@@ -64,7 +64,7 @@
       {
         "plate_id": "24175361",
         "plate_name": "动漫",
-        "core_avg_pcp": 0.06209561673809525,
+        "core_avg_pcp": 0.06209561673809524,
         "top10_stocks": [
           {
             "name": "宝通科技",
@@ -123,7 +123,7 @@
       {
         "plate_id": "23773810",
         "plate_name": "智能音箱",
-        "core_avg_pcp": 0.05750208592564104,
+        "core_avg_pcp": 0.05750208592564102,
         "top10_stocks": [
           {
             "name": "海天瑞声",
@@ -223,7 +223,7 @@
       {
         "plate_id": "47059342",
         "plate_name": "减速器",
-        "core_avg_pcp": 0.07721024401617649,
+        "core_avg_pcp": 0.07721024401617647,
         "top10_stocks": [
           {
             "name": "恒工精密",
@@ -282,7 +282,7 @@
       {
         "plate_id": "69474866",
         "plate_name": "物理AI",
-        "core_avg_pcp": 0.07543166276451611,
+        "core_avg_pcp": 0.0754316627645161,
         "top10_stocks": [
           {
             "name": "宇树科技",
@@ -343,7 +343,7 @@
       {
         "plate_id": "17428174",
         "plate_name": "强势人气股",
-        "core_avg_pcp": 0.06416198190000001,
+        "core_avg_pcp": 0.0641619819,
         "top10_stocks": [
           {
             "name": "凡拓数创",
@@ -461,7 +461,7 @@
       {
         "plate_id": "13011026",
         "plate_name": "高价股",
-        "core_avg_pcp": 0.044155381266666655,
+        "core_avg_pcp": 0.04415538126666665,
         "top10_stocks": [
           {
             "name": "福赛科技",
