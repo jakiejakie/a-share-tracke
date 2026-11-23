@@ -207,8 +207,18 @@ def collect_etfs(etfs,expected_date):
             signals=[]
             if bull(now) and not bull(prev):signals.append('新转多头排列')
             if ratio>=1.5:
-                if now['5']>now['10']: signals.append('上升放量')
-                elif now['5']<now['10']: signals.append('下降放量')
+                if volume_ratio >= 1.5:
+                    if close_today > close_previous:
+                        if ma5 > ma10:
+                            signals.append('放量上涨·多头')
+                        elif ma5 < ma10:
+                            signals.append('放量反弹·空头排列')
+                
+                    elif close_today < close_previous:
+                        if ma5 > ma10:
+                            signals.append('放量回调·多头排列')
+                        elif ma5 < ma10:
+                            signals.append('放量下跌·空头')
             result.append({**item,'close':lines[-1]['close'],'volume_ratio':ratio,'ma_today':now,'ma_previous':prev,'signals':signals})
         except (FetchError,KeyError,TypeError,ValueError,IndexError) as e:errors.append(f'{code} {item["name"]}: {e}')
     return result,errors
