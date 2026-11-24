@@ -1,0 +1,487 @@
+{
+  "date": "2026-11-24",
+  "tabs": {
+    "行业板块": [
+      {
+        "plate_id": "22431937",
+        "plate_name": "白糖",
+        "core_avg_pcp": 0.01724270515,
+        "top10_stocks": [
+          {
+            "name": "*ST广糖",
+            "symbol": "000911.SZ",
+            "change_percent": 0.0698795181
+          },
+          {
+            "name": "中粮糖业",
+            "symbol": "600737.SS",
+            "change_percent": 0.0280210158
+          },
+          {
+            "name": "红棉股份",
+            "symbol": "000523.SZ",
+            "change_percent": 0.0114503817
+          },
+          {
+            "name": "甘化科工",
+            "symbol": "000576.SZ",
+            "change_percent": 0.0046153846
+          },
+          {
+            "name": "新疆冠农",
+            "symbol": "600251.SS",
+            "change_percent": 0.0023364486
+          },
+          {
+            "name": "金龙鱼",
+            "symbol": "300999.SZ",
+            "change_percent": -0.0047770701
+          },
+          {
+            "name": "粤桂股份",
+            "symbol": "000833.SZ",
+            "change_percent": -0.0128465179
+          },
+          {
+            "name": "华资实业",
+            "symbol": "600191.SS",
+            "change_percent": -0.0252600297
+          }
+        ],
+        "constituent_count": 8,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "55381710",
+        "plate_name": "玩具",
+        "core_avg_pcp": 0.0168284669,
+        "top10_stocks": [
+          {
+            "name": "创源股份",
+            "symbol": "300703.SZ",
+            "change_percent": 0.1998381877
+          },
+          {
+            "name": "高乐股份",
+            "symbol": "002348.SZ",
+            "change_percent": 0.1002538071
+          },
+          {
+            "name": "华立科技",
+            "symbol": "301011.SZ",
+            "change_percent": 0.0170502984
+          },
+          {
+            "name": "实丰文化",
+            "symbol": "002862.SZ",
+            "change_percent": 0.0156385752
+          },
+          {
+            "name": "星辉娱乐",
+            "symbol": "300043.SZ",
+            "change_percent": 0.0104166667
+          },
+          {
+            "name": "广和通",
+            "symbol": "300638.SZ",
+            "change_percent": 0.0067834935
+          },
+          {
+            "name": "元隆雅图",
+            "symbol": "002878.SZ",
+            "change_percent": 0.003652968
+          },
+          {
+            "name": "博通集成",
+            "symbol": "603068.SS",
+            "change_percent": 0.0031908105
+          },
+          {
+            "name": "奥飞娱乐",
+            "symbol": "002292.SZ",
+            "change_percent": 0.0013071895
+          },
+          {
+            "name": "*ST美盛",
+            "symbol": "002699.SZ",
+            "change_percent": 0.0
+          }
+        ],
+        "constituent_count": 16,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "23773810",
+        "plate_name": "智能音箱",
+        "core_avg_pcp": 0.014254215374358977,
+        "top10_stocks": [
+          {
+            "name": "*ST泉为",
+            "symbol": "300716.SZ",
+            "change_percent": 0.1952770209
+          },
+          {
+            "name": "中京电子",
+            "symbol": "002579.SZ",
+            "change_percent": 0.099796334
+          },
+          {
+            "name": "共达电声",
+            "symbol": "002655.SZ",
+            "change_percent": 0.0761274307
+          },
+          {
+            "name": "中石科技",
+            "symbol": "300684.SZ",
+            "change_percent": 0.0610357583
+          },
+          {
+            "name": "达瑞电子",
+            "symbol": "300976.SZ",
+            "change_percent": 0.0527679623
+          },
+          {
+            "name": "歌尔股份",
+            "symbol": "002241.SZ",
+            "change_percent": 0.0516129032
+          },
+          {
+            "name": "佳禾智能",
+            "symbol": "300793.SZ",
+            "change_percent": 0.0453333333
+          },
+          {
+            "name": "信维通信",
+            "symbol": "300136.SZ",
+            "change_percent": 0.045106832
+          },
+          {
+            "name": "瀛通通讯",
+            "symbol": "002861.SZ",
+            "change_percent": 0.0417754569
+          },
+          {
+            "name": "恒玄科技",
+            "symbol": "688608.SS",
+            "change_percent": 0.0366350068
+          }
+        ],
+        "constituent_count": 45,
+        "skipped_no_data": 0
+      }
+    ],
+    "概念板块": [
+      {
+        "plate_id": "97970574",
+        "plate_name": "电子鼻",
+        "core_avg_pcp": 0.02684716646,
+        "top10_stocks": [
+          {
+            "name": "汉威科技",
+            "symbol": "300007.SZ",
+            "change_percent": 0.1066481994
+          },
+          {
+            "name": "四方光电",
+            "symbol": "688665.SS",
+            "change_percent": 0.0174418605
+          },
+          {
+            "name": "赛微电子",
+            "symbol": "300456.SZ",
+            "change_percent": 0.0142857143
+          },
+          {
+            "name": "汉王科技",
+            "symbol": "002362.SZ",
+            "change_percent": 0.0115025162
+          },
+          {
+            "name": "迅捷兴",
+            "symbol": "688655.SS",
+            "change_percent": -0.0156424581
+          },
+          {
+            "name": "报 喜 鸟",
+            "symbol": "002154.SZ",
+            "change_percent": -0.0216718266
+          }
+        ],
+        "constituent_count": 6,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "47059342",
+        "plate_name": "减速器",
+        "core_avg_pcp": 0.026107980491176474,
+        "top10_stocks": [
+          {
+            "name": "横河精密",
+            "symbol": "300539.SZ",
+            "change_percent": 0.1997874601
+          },
+          {
+            "name": "恒工精密",
+            "symbol": "301261.SZ",
+            "change_percent": 0.1402640264
+          },
+          {
+            "name": "光洋股份",
+            "symbol": "002708.SZ",
+            "change_percent": 0.1000476417
+          },
+          {
+            "name": "宁波东力",
+            "symbol": "002164.SZ",
+            "change_percent": 0.0997770346
+          },
+          {
+            "name": "飞亚达",
+            "symbol": "000026.SZ",
+            "change_percent": 0.0875912409
+          },
+          {
+            "name": "福达股份",
+            "symbol": "603166.SS",
+            "change_percent": 0.0773930754
+          },
+          {
+            "name": "瑞迪智驱",
+            "symbol": "301596.SZ",
+            "change_percent": 0.0724902813
+          },
+          {
+            "name": "鸣志电器",
+            "symbol": "603728.SS",
+            "change_percent": 0.0696344701
+          },
+          {
+            "name": "豪能股份",
+            "symbol": "603809.SS",
+            "change_percent": 0.0635324015
+          },
+          {
+            "name": "五洲新春",
+            "symbol": "603667.SS",
+            "change_percent": 0.0627185315
+          }
+        ],
+        "constituent_count": 83,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "54594386",
+        "plate_name": "无线耳机",
+        "core_avg_pcp": 0.0195098874795699,
+        "top10_stocks": [
+          {
+            "name": "奥尼电子",
+            "symbol": "301189.SZ",
+            "change_percent": 0.2001097996
+          },
+          {
+            "name": "*ST泉为",
+            "symbol": "300716.SZ",
+            "change_percent": 0.1952770209
+          },
+          {
+            "name": "芯导科技",
+            "symbol": "688230.SS",
+            "change_percent": 0.1074468085
+          },
+          {
+            "name": "汉威科技",
+            "symbol": "300007.SZ",
+            "change_percent": 0.1066481994
+          },
+          {
+            "name": "联创电子",
+            "symbol": "002036.SZ",
+            "change_percent": 0.1006160164
+          },
+          {
+            "name": "科森科技",
+            "symbol": "603626.SS",
+            "change_percent": 0.0998322148
+          },
+          {
+            "name": "朗特智能",
+            "symbol": "300916.SZ",
+            "change_percent": 0.0822463768
+          },
+          {
+            "name": "福立旺",
+            "symbol": "688678.SS",
+            "change_percent": 0.0807764559
+          },
+          {
+            "name": "龙旗科技",
+            "symbol": "603341.SS",
+            "change_percent": 0.0791139241
+          },
+          {
+            "name": "共达电声",
+            "symbol": "002655.SZ",
+            "change_percent": 0.0761274307
+          }
+        ],
+        "constituent_count": 112,
+        "skipped_no_data": 0
+      }
+    ],
+    "风格板块": [
+      {
+        "plate_id": "13492121",
+        "plate_name": "筹码集中",
+        "core_avg_pcp": 0.03972378588,
+        "top10_stocks": [
+          {
+            "name": "红豆股份",
+            "symbol": "600400.SS",
+            "change_percent": 0.1003039514
+          },
+          {
+            "name": "ST东尼",
+            "symbol": "603595.SS",
+            "change_percent": 0.0700039108
+          },
+          {
+            "name": "中国瑞林",
+            "symbol": "603257.SS",
+            "change_percent": 0.0381231672
+          },
+          {
+            "name": "金田股份",
+            "symbol": "601609.SS",
+            "change_percent": 0.0012376238
+          },
+          {
+            "name": "*ST中设",
+            "symbol": "002883.SZ",
+            "change_percent": -0.0110497238
+          }
+        ],
+        "constituent_count": 5,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "17428174",
+        "plate_name": "强势人气股",
+        "core_avg_pcp": 0.02593304891818182,
+        "top10_stocks": [
+          {
+            "name": "全筑股份",
+            "symbol": "603030.SS",
+            "change_percent": 0.1023255814
+          },
+          {
+            "name": "文投控股",
+            "symbol": "600715.SS",
+            "change_percent": 0.101754386
+          },
+          {
+            "name": "克来机电",
+            "symbol": "603960.SS",
+            "change_percent": 0.1001951854
+          },
+          {
+            "name": "九阳股份",
+            "symbol": "002242.SZ",
+            "change_percent": 0.1001255493
+          },
+          {
+            "name": "长华集团",
+            "symbol": "605018.SS",
+            "change_percent": 0.100088574
+          },
+          {
+            "name": "兴欣新材",
+            "symbol": "001358.SZ",
+            "change_percent": 0.1000692521
+          },
+          {
+            "name": "高争民爆",
+            "symbol": "002827.SZ",
+            "change_percent": 0.1
+          },
+          {
+            "name": "中京电子",
+            "symbol": "002579.SZ",
+            "change_percent": 0.099796334
+          },
+          {
+            "name": "华东重机",
+            "symbol": "002685.SZ",
+            "change_percent": 0.0995085995
+          },
+          {
+            "name": "东方海洋",
+            "symbol": "002086.SZ",
+            "change_percent": 0.0992736077
+          }
+        ],
+        "constituent_count": 56,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "24898553",
+        "plate_name": "ST股",
+        "core_avg_pcp": 0.014254368691666667,
+        "top10_stocks": [
+          {
+            "name": "*ST开元",
+            "symbol": "300338.SZ",
+            "change_percent": 0.2024539877
+          },
+          {
+            "name": "*ST天喻",
+            "symbol": "300205.SZ",
+            "change_percent": 0.1993243243
+          },
+          {
+            "name": "*ST泉为",
+            "symbol": "300716.SZ",
+            "change_percent": 0.1952770209
+          },
+          {
+            "name": "*ST动力",
+            "symbol": "300152.SZ",
+            "change_percent": 0.1923076923
+          },
+          {
+            "name": "*ST仕净",
+            "symbol": "301030.SZ",
+            "change_percent": 0.1569620253
+          },
+          {
+            "name": "*ST东珠",
+            "symbol": "603359.SS",
+            "change_percent": 0.1058823529
+          },
+          {
+            "name": "ST合纵",
+            "symbol": "300477.SZ",
+            "change_percent": 0.1036585366
+          },
+          {
+            "name": "ST中路",
+            "symbol": "600818.SS",
+            "change_percent": 0.1004709576
+          },
+          {
+            "name": "*ST华鹏",
+            "symbol": "603021.SS",
+            "change_percent": 0.1
+          },
+          {
+            "name": "ST交昂",
+            "symbol": "600530.SS",
+            "change_percent": 0.1
+          }
+        ],
+        "constituent_count": 180,
+        "skipped_no_data": 0
+      }
+    ]
+  }
+}
