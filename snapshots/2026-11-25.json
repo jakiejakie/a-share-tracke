@@ -1,0 +1,542 @@
+{
+  "date": "2026-11-25",
+  "tabs": {
+    "行业板块": [
+      {
+        "plate_id": "63722137",
+        "plate_name": "餐饮",
+        "core_avg_pcp": 0.03981837653333333,
+        "top10_stocks": [
+          {
+            "name": "*ST福成",
+            "symbol": "600965.SS",
+            "change_percent": 0.097826087
+          },
+          {
+            "name": "ST云网",
+            "symbol": "002306.SZ",
+            "change_percent": 0.0681818182
+          },
+          {
+            "name": "同庆楼",
+            "symbol": "605108.SS",
+            "change_percent": 0.0575048733
+          },
+          {
+            "name": "凯撒旅业",
+            "symbol": "000796.SZ",
+            "change_percent": 0.0544217687
+          },
+          {
+            "name": "曲江文旅",
+            "symbol": "600706.SS",
+            "change_percent": 0.0431893688
+          },
+          {
+            "name": "华天酒店",
+            "symbol": "000428.SZ",
+            "change_percent": 0.0390879479
+          },
+          {
+            "name": "全 聚 德",
+            "symbol": "002186.SZ",
+            "change_percent": 0.0284653465
+          },
+          {
+            "name": "西安饮食",
+            "symbol": "000721.SZ",
+            "change_percent": 0.0243902439
+          },
+          {
+            "name": "金陵饭店",
+            "symbol": "601007.SS",
+            "change_percent": 0.022260274
+          },
+          {
+            "name": "锦江酒店",
+            "symbol": "600754.SS",
+            "change_percent": 0.0210224558
+          }
+        ],
+        "constituent_count": 15,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "53556594",
+        "plate_name": "水产养殖",
+        "core_avg_pcp": 0.03551570712,
+        "top10_stocks": [
+          {
+            "name": "好当家",
+            "symbol": "600467.SS",
+            "change_percent": 0.1009174312
+          },
+          {
+            "name": "獐子岛",
+            "symbol": "002069.SZ",
+            "change_percent": 0.099378882
+          },
+          {
+            "name": "国联水产",
+            "symbol": "300094.SZ",
+            "change_percent": 0.0611510791
+          },
+          {
+            "name": "中水渔业",
+            "symbol": "000798.SZ",
+            "change_percent": 0.034351145
+          },
+          {
+            "name": "开创国际",
+            "symbol": "600097.SS",
+            "change_percent": 0.0328515112
+          },
+          {
+            "name": "神农种业",
+            "symbol": "300189.SZ",
+            "change_percent": 0.0317124736
+          },
+          {
+            "name": "大湖股份",
+            "symbol": "600257.SS",
+            "change_percent": 0.0244988864
+          },
+          {
+            "name": "粤海饲料",
+            "symbol": "001313.SZ",
+            "change_percent": 0.0169779287
+          },
+          {
+            "name": "佳沃食品",
+            "symbol": "300268.SZ",
+            "change_percent": 0.0167264038
+          },
+          {
+            "name": "百洋股份",
+            "symbol": "002696.SZ",
+            "change_percent": 0.0039577836
+          }
+        ],
+        "constituent_count": 15,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "18608521",
+        "plate_name": "林业",
+        "core_avg_pcp": 0.03225673767,
+        "top10_stocks": [
+          {
+            "name": "青山纸业",
+            "symbol": "600103.SS",
+            "change_percent": 0.0988372093
+          },
+          {
+            "name": "岳阳林纸",
+            "symbol": "600963.SS",
+            "change_percent": 0.0350318471
+          },
+          {
+            "name": "康欣新材",
+            "symbol": "600076.SS",
+            "change_percent": 0.0282485876
+          },
+          {
+            "name": "永安林业",
+            "symbol": "000663.SZ",
+            "change_percent": 0.0277777778
+          },
+          {
+            "name": "ST晨鸣",
+            "symbol": "000488.SZ",
+            "change_percent": 0.0275862069
+          },
+          {
+            "name": "大亚圣象",
+            "symbol": "000910.SZ",
+            "change_percent": 0.0270880361
+          },
+          {
+            "name": "丰林集团",
+            "symbol": "601996.SS",
+            "change_percent": 0.021978022
+          },
+          {
+            "name": "平潭发展",
+            "symbol": "000592.SZ",
+            "change_percent": 0.0191637631
+          },
+          {
+            "name": "*ST景谷",
+            "symbol": "600265.SS",
+            "change_percent": 0.0185185185
+          },
+          {
+            "name": "福建金森",
+            "symbol": "002679.SZ",
+            "change_percent": 0.0183374083
+          }
+        ],
+        "constituent_count": 10,
+        "skipped_no_data": 0
+      }
+    ],
+    "概念板块": [
+      {
+        "plate_id": "26881822",
+        "plate_name": "海南概念",
+        "core_avg_pcp": 0.03371478071153845,
+        "top10_stocks": [
+          {
+            "name": "康芝药业",
+            "symbol": "300086.SZ",
+            "change_percent": 0.2004950495
+          },
+          {
+            "name": "海汽集团",
+            "symbol": "603069.SS",
+            "change_percent": 0.0998003992
+          },
+          {
+            "name": "海南海药",
+            "symbol": "000566.SZ",
+            "change_percent": 0.0988372093
+          },
+          {
+            "name": "ST葫芦娃",
+            "symbol": "605199.SS",
+            "change_percent": 0.0739957717
+          },
+          {
+            "name": "凯撒旅业",
+            "symbol": "000796.SZ",
+            "change_percent": 0.0544217687
+          },
+          {
+            "name": "ST华闻",
+            "symbol": "000793.SZ",
+            "change_percent": 0.0481927711
+          },
+          {
+            "name": "欣龙控股",
+            "symbol": "000955.SZ",
+            "change_percent": 0.035483871
+          },
+          {
+            "name": "海南高速",
+            "symbol": "000886.SZ",
+            "change_percent": 0.035326087
+          },
+          {
+            "name": "海南发展",
+            "symbol": "002163.SZ",
+            "change_percent": 0.0342465753
+          },
+          {
+            "name": "神农种业",
+            "symbol": "300189.SZ",
+            "change_percent": 0.0317124736
+          }
+        ],
+        "constituent_count": 28,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "88130137",
+        "plate_name": "林业碳汇",
+        "core_avg_pcp": 0.031696885310000006,
+        "top10_stocks": [
+          {
+            "name": "*ST东珠",
+            "symbol": "603359.SS",
+            "change_percent": 0.0957446809
+          },
+          {
+            "name": "兴源环境",
+            "symbol": "300266.SZ",
+            "change_percent": 0.0367647059
+          },
+          {
+            "name": "岳阳林纸",
+            "symbol": "600963.SS",
+            "change_percent": 0.0350318471
+          },
+          {
+            "name": "康欣新材",
+            "symbol": "600076.SS",
+            "change_percent": 0.0282485876
+          },
+          {
+            "name": "永安林业",
+            "symbol": "000663.SZ",
+            "change_percent": 0.0277777778
+          },
+          {
+            "name": "ST晨鸣",
+            "symbol": "000488.SZ",
+            "change_percent": 0.0275862069
+          },
+          {
+            "name": "蒙草生态",
+            "symbol": "300355.SZ",
+            "change_percent": 0.0225225225
+          },
+          {
+            "name": "绿茵生态",
+            "symbol": "002887.SZ",
+            "change_percent": 0.0203784571
+          },
+          {
+            "name": "福建金森",
+            "symbol": "002679.SZ",
+            "change_percent": 0.0183374083
+          },
+          {
+            "name": "国检集团",
+            "symbol": "603060.SS",
+            "change_percent": 0.004576659
+          }
+        ],
+        "constituent_count": 11,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "31163550",
+        "plate_name": "海南自由贸易港",
+        "core_avg_pcp": 0.029849303409999996,
+        "top10_stocks": [
+          {
+            "name": "康芝药业",
+            "symbol": "300086.SZ",
+            "change_percent": 0.2004950495
+          },
+          {
+            "name": "海汽集团",
+            "symbol": "603069.SS",
+            "change_percent": 0.0998003992
+          },
+          {
+            "name": "海南海药",
+            "symbol": "000566.SZ",
+            "change_percent": 0.0988372093
+          },
+          {
+            "name": "凯撒旅业",
+            "symbol": "000796.SZ",
+            "change_percent": 0.0544217687
+          },
+          {
+            "name": "ST华闻",
+            "symbol": "000793.SZ",
+            "change_percent": 0.0481927711
+          },
+          {
+            "name": "银座股份",
+            "symbol": "600858.SS",
+            "change_percent": 0.0428571429
+          },
+          {
+            "name": "欣龙控股",
+            "symbol": "000955.SZ",
+            "change_percent": 0.035483871
+          },
+          {
+            "name": "海南高速",
+            "symbol": "000886.SZ",
+            "change_percent": 0.035326087
+          },
+          {
+            "name": "海南发展",
+            "symbol": "002163.SZ",
+            "change_percent": 0.0342465753
+          },
+          {
+            "name": "神农种业",
+            "symbol": "300189.SZ",
+            "change_percent": 0.0317124736
+          }
+        ],
+        "constituent_count": 34,
+        "skipped_no_data": 0
+      }
+    ],
+    "风格板块": [
+      {
+        "plate_id": "24898553",
+        "plate_name": "ST股",
+        "core_avg_pcp": 0.02697516204555555,
+        "top10_stocks": [
+          {
+            "name": "*ST开元",
+            "symbol": "300338.SZ",
+            "change_percent": 0.1989795918
+          },
+          {
+            "name": "ST荣科",
+            "symbol": "300290.SZ",
+            "change_percent": 0.1670588235
+          },
+          {
+            "name": "*ST天喻",
+            "symbol": "300205.SZ",
+            "change_percent": 0.138028169
+          },
+          {
+            "name": "*ST瑞茂",
+            "symbol": "600180.SS",
+            "change_percent": 0.1090909091
+          },
+          {
+            "name": "*ST启环",
+            "symbol": "000826.SZ",
+            "change_percent": 0.1037735849
+          },
+          {
+            "name": "ST海王",
+            "symbol": "000078.SZ",
+            "change_percent": 0.1028037383
+          },
+          {
+            "name": "ST龙元",
+            "symbol": "600491.SS",
+            "change_percent": 0.1018518519
+          },
+          {
+            "name": "*ST发展",
+            "symbol": "000838.SZ",
+            "change_percent": 0.0983606557
+          },
+          {
+            "name": "ST文峰",
+            "symbol": "601010.SS",
+            "change_percent": 0.0980392157
+          },
+          {
+            "name": "*ST福成",
+            "symbol": "600965.SS",
+            "change_percent": 0.097826087
+          }
+        ],
+        "constituent_count": 180,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "4637726",
+        "plate_name": "低价股",
+        "core_avg_pcp": 0.022371548626153846,
+        "top10_stocks": [
+          {
+            "name": "*ST开元",
+            "symbol": "300338.SZ",
+            "change_percent": 0.1989795918
+          },
+          {
+            "name": "*ST瑞茂",
+            "symbol": "600180.SS",
+            "change_percent": 0.1090909091
+          },
+          {
+            "name": "*ST启环",
+            "symbol": "000826.SZ",
+            "change_percent": 0.1037735849
+          },
+          {
+            "name": "ST海王",
+            "symbol": "000078.SZ",
+            "change_percent": 0.1028037383
+          },
+          {
+            "name": "ST龙元",
+            "symbol": "600491.SS",
+            "change_percent": 0.1018518519
+          },
+          {
+            "name": "中央商场",
+            "symbol": "600280.SS",
+            "change_percent": 0.1015625
+          },
+          {
+            "name": "全筑股份",
+            "symbol": "603030.SS",
+            "change_percent": 0.1012658228
+          },
+          {
+            "name": "衢州东峰",
+            "symbol": "601515.SS",
+            "change_percent": 0.1007751938
+          },
+          {
+            "name": "*ST发展",
+            "symbol": "000838.SZ",
+            "change_percent": 0.0983606557
+          },
+          {
+            "name": "ST文峰",
+            "symbol": "601010.SS",
+            "change_percent": 0.0980392157
+          }
+        ],
+        "constituent_count": 329,
+        "skipped_no_data": 4
+      },
+      {
+        "plate_id": "17290881",
+        "plate_name": "ST摘帽",
+        "core_avg_pcp": 0.01280671358292683,
+        "top10_stocks": [
+          {
+            "name": "汇洲智能",
+            "symbol": "002122.SZ",
+            "change_percent": 0.1012269939
+          },
+          {
+            "name": "天圣制药",
+            "symbol": "002872.SZ",
+            "change_percent": 0.1007751938
+          },
+          {
+            "name": "石药景峰",
+            "symbol": "000908.SZ",
+            "change_percent": 0.1006864989
+          },
+          {
+            "name": "东易日盛",
+            "symbol": "002713.SZ",
+            "change_percent": 0.1003039514
+          },
+          {
+            "name": "证通电子",
+            "symbol": "002197.SZ",
+            "change_percent": 0.0994854202
+          },
+          {
+            "name": "川大智胜",
+            "symbol": "002253.SZ",
+            "change_percent": 0.0636363636
+          },
+          {
+            "name": "围海股份",
+            "symbol": "002586.SZ",
+            "change_percent": 0.0520446097
+          },
+          {
+            "name": "朗源股份",
+            "symbol": "300175.SZ",
+            "change_percent": 0.0430379747
+          },
+          {
+            "name": "中船应急",
+            "symbol": "300527.SZ",
+            "change_percent": 0.0425894378
+          },
+          {
+            "name": "辉丰股份",
+            "symbol": "002496.SZ",
+            "change_percent": 0.0379746835
+          }
+        ],
+        "constituent_count": 82,
+        "skipped_no_data": 0
+      }
+    ]
+  }
+}
