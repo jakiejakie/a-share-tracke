@@ -64,7 +64,7 @@
       {
         "plate_id": "53556594",
         "plate_name": "水产养殖",
-        "core_avg_pcp": 0.04204081597,
+        "core_avg_pcp": 0.042040815970000006,
         "top10_stocks": [
           {
             "name": "中水渔业",
@@ -123,7 +123,7 @@
       {
         "plate_id": "17396594",
         "plate_name": "甲醇",
-        "core_avg_pcp": 0.0372190038,
+        "core_avg_pcp": 0.037219003800000004,
         "top10_stocks": [
           {
             "name": "泸天化",
@@ -243,7 +243,7 @@
       {
         "plate_id": "18184937",
         "plate_name": "山西国企改革",
-        "core_avg_pcp": 0.024149234649999997,
+        "core_avg_pcp": 0.02414923465,
         "top10_stocks": [
           {
             "name": "潞化科技",
@@ -302,7 +302,7 @@
       {
         "plate_id": "34795166",
         "plate_name": "毫米波通信",
-        "core_avg_pcp": 0.018932741805,
+        "core_avg_pcp": 0.018932741804999997,
         "top10_stocks": [
           {
             "name": "金信诺",
@@ -363,7 +363,7 @@
       {
         "plate_id": "17428174",
         "plate_name": "强势人气股",
-        "core_avg_pcp": 0.021963928767142864,
+        "core_avg_pcp": 0.02196392876714286,
         "top10_stocks": [
           {
             "name": "杭州解百",
@@ -406,13 +406,13 @@
             "change_percent": 0.1000929656
           },
           {
-            "name": "利君股份",
-            "symbol": "002651.SZ",
+            "name": "冰山冷热",
+            "symbol": "000530.SZ",
             "change_percent": 0.1
           },
           {
-            "name": "天圣制药",
-            "symbol": "002872.SZ",
+            "name": "利君股份",
+            "symbol": "002651.SZ",
             "change_percent": 0.1
           }
         ],
@@ -481,7 +481,7 @@
       {
         "plate_id": "13011026",
         "plate_name": "高价股",
-        "core_avg_pcp": 0.0026558866666666677,
+        "core_avg_pcp": 0.0026558866666666686,
         "top10_stocks": [
           {
             "name": "中际旭创",
