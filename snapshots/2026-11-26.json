@@ -1,0 +1,522 @@
+{
+  "date": "2026-11-26",
+  "tabs": {
+    "行业板块": [
+      {
+        "plate_id": "16843401",
+        "plate_name": "黄金",
+        "core_avg_pcp": 0.04320067327272728,
+        "top10_stocks": [
+          {
+            "name": "盛达资源",
+            "symbol": "000603.SZ",
+            "change_percent": 0.081143384
+          },
+          {
+            "name": "晓程科技",
+            "symbol": "300139.SZ",
+            "change_percent": 0.0732635585
+          },
+          {
+            "name": "招金黄金",
+            "symbol": "000506.SZ",
+            "change_percent": 0.0711188205
+          },
+          {
+            "name": "赤峰黄金",
+            "symbol": "600988.SS",
+            "change_percent": 0.0576351753
+          },
+          {
+            "name": "兴业银锡",
+            "symbol": "000426.SZ",
+            "change_percent": 0.0512099043
+          },
+          {
+            "name": "湖南白银",
+            "symbol": "002716.SZ",
+            "change_percent": 0.0482315113
+          },
+          {
+            "name": "山金国际",
+            "symbol": "000975.SZ",
+            "change_percent": 0.0446848542
+          },
+          {
+            "name": "四川黄金",
+            "symbol": "001337.SZ",
+            "change_percent": 0.0381480274
+          },
+          {
+            "name": "中金黄金",
+            "symbol": "600489.SS",
+            "change_percent": 0.0363636364
+          },
+          {
+            "name": "湖南黄金",
+            "symbol": "002155.SZ",
+            "change_percent": 0.0344403444
+          }
+        ],
+        "constituent_count": 35,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "53556594",
+        "plate_name": "水产养殖",
+        "core_avg_pcp": 0.04300669454,
+        "top10_stocks": [
+          {
+            "name": "中水渔业",
+            "symbol": "000798.SZ",
+            "change_percent": 0.1005089059
+          },
+          {
+            "name": "好当家",
+            "symbol": "600467.SS",
+            "change_percent": 0.1
+          },
+          {
+            "name": "东方海洋",
+            "symbol": "002086.SZ",
+            "change_percent": 0.0944700461
+          },
+          {
+            "name": "国联水产",
+            "symbol": "300094.SZ",
+            "change_percent": 0.0486111111
+          },
+          {
+            "name": "大湖股份",
+            "symbol": "600257.SS",
+            "change_percent": 0.0406320542
+          },
+          {
+            "name": "百洋股份",
+            "symbol": "002696.SZ",
+            "change_percent": 0.0399429387
+          },
+          {
+            "name": "开创国际",
+            "symbol": "600097.SS",
+            "change_percent": 0.0306666667
+          },
+          {
+            "name": "神农种业",
+            "symbol": "300189.SZ",
+            "change_percent": 0.0255319149
+          },
+          {
+            "name": "佳沃食品",
+            "symbol": "300268.SZ",
+            "change_percent": 0.0025
+          },
+          {
+            "name": "獐子岛",
+            "symbol": "002069.SZ",
+            "change_percent": -0.0028248588
+          }
+        ],
+        "constituent_count": 15,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "54724617",
+        "plate_name": "白银",
+        "core_avg_pcp": 0.030165976646666665,
+        "top10_stocks": [
+          {
+            "name": "盛达资源",
+            "symbol": "000603.SZ",
+            "change_percent": 0.081143384
+          },
+          {
+            "name": "赤峰黄金",
+            "symbol": "600988.SS",
+            "change_percent": 0.0576351753
+          },
+          {
+            "name": "兴业银锡",
+            "symbol": "000426.SZ",
+            "change_percent": 0.0512099043
+          },
+          {
+            "name": "湖南白银",
+            "symbol": "002716.SZ",
+            "change_percent": 0.0482315113
+          },
+          {
+            "name": "山金国际",
+            "symbol": "000975.SZ",
+            "change_percent": 0.0446848542
+          },
+          {
+            "name": "紫金矿业",
+            "symbol": "601899.SS",
+            "change_percent": 0.0330866347
+          },
+          {
+            "name": "贵研铂业",
+            "symbol": "600459.SS",
+            "change_percent": 0.0279617366
+          },
+          {
+            "name": "恒邦股份",
+            "symbol": "002237.SZ",
+            "change_percent": 0.0271115746
+          },
+          {
+            "name": "白银有色",
+            "symbol": "601212.SS",
+            "change_percent": 0.027027027
+          },
+          {
+            "name": "西部矿业",
+            "symbol": "601168.SS",
+            "change_percent": 0.0227649007
+          }
+        ],
+        "constituent_count": 21,
+        "skipped_no_data": 0
+      }
+    ],
+    "概念板块": [
+      {
+        "plate_id": "48043001",
+        "plate_name": "气凝胶",
+        "core_avg_pcp": 0.028800900407692308,
+        "top10_stocks": [
+          {
+            "name": "金三江",
+            "symbol": "301059.SZ",
+            "change_percent": 0.2004264392
+          },
+          {
+            "name": "普利特",
+            "symbol": "002324.SZ",
+            "change_percent": 0.0995792426
+          },
+          {
+            "name": "华阳新材",
+            "symbol": "600281.SS",
+            "change_percent": 0.0401069519
+          },
+          {
+            "name": "金银河",
+            "symbol": "300619.SZ",
+            "change_percent": 0.024137931
+          },
+          {
+            "name": "华昌化工",
+            "symbol": "002274.SZ",
+            "change_percent": 0.0141843972
+          },
+          {
+            "name": "锦富技术",
+            "symbol": "300128.SZ",
+            "change_percent": 0.0124610592
+          },
+          {
+            "name": "和远气体",
+            "symbol": "002971.SZ",
+            "change_percent": 0.0088904694
+          },
+          {
+            "name": "康达新材",
+            "symbol": "002669.SZ",
+            "change_percent": 0.0053590568
+          },
+          {
+            "name": "凌玮科技",
+            "symbol": "301373.SZ",
+            "change_percent": 0.0022807018
+          },
+          {
+            "name": "雅化集团",
+            "symbol": "002497.SZ",
+            "change_percent": 0.0018248175
+          }
+        ],
+        "constituent_count": 17,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "387225",
+        "plate_name": "苹果期货",
+        "core_avg_pcp": 0.028793545049999997,
+        "top10_stocks": [
+          {
+            "name": "宏辉果蔬",
+            "symbol": "603336.SS",
+            "change_percent": 0.1006802721
+          },
+          {
+            "name": "新洋丰",
+            "symbol": "000902.SZ",
+            "change_percent": 0.0247933884
+          },
+          {
+            "name": "长城电工",
+            "symbol": "600192.SS",
+            "change_percent": 0.0055147059
+          },
+          {
+            "name": "朗源股份",
+            "symbol": "300175.SZ",
+            "change_percent": -0.0025575448
+          },
+          {
+            "name": "安德利",
+            "symbol": "605198.SS",
+            "change_percent": -0.0077419355
+          },
+          {
+            "name": "国投电子",
+            "symbol": "600962.SS",
+            "change_percent": -0.0194274029
+          }
+        ],
+        "constituent_count": 6,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "100223449",
+        "plate_name": "SpaceX概念股",
+        "core_avg_pcp": 0.0239568622,
+        "top10_stocks": [
+          {
+            "name": "西部材料",
+            "symbol": "002149.SZ",
+            "change_percent": 0.085669167
+          },
+          {
+            "name": "信维通信",
+            "symbol": "300136.SZ",
+            "change_percent": 0.0443537415
+          },
+          {
+            "name": "通宇通讯",
+            "symbol": "002792.SZ",
+            "change_percent": 0.0440594059
+          },
+          {
+            "name": "再升科技",
+            "symbol": "603601.SS",
+            "change_percent": 0.0331753555
+          },
+          {
+            "name": "东方日升",
+            "symbol": "300118.SZ",
+            "change_percent": 0.0314735336
+          },
+          {
+            "name": "斯瑞新材",
+            "symbol": "688102.SS",
+            "change_percent": 0.0151658768
+          },
+          {
+            "name": "罗博特科",
+            "symbol": "300757.SZ",
+            "change_percent": 0.0111378419
+          },
+          {
+            "name": "蓝思科技",
+            "symbol": "300433.SZ",
+            "change_percent": -0.0017961383
+          },
+          {
+            "name": "华宝新能",
+            "symbol": "301327.SZ",
+            "change_percent": -0.0073989755
+          },
+          {
+            "name": "晋拓股份",
+            "symbol": "603211.SS",
+            "change_percent": -0.0162711864
+          }
+        ],
+        "constituent_count": 10,
+        "skipped_no_data": 0
+      }
+    ],
+    "风格板块": [
+      {
+        "plate_id": "5433758",
+        "plate_name": "业绩增长",
+        "core_avg_pcp": 0.006987678400000002,
+        "top10_stocks": [
+          {
+            "name": "光库科技",
+            "symbol": "300620.SZ",
+            "change_percent": 0.0566561971
+          },
+          {
+            "name": "兴森科技",
+            "symbol": "002436.SZ",
+            "change_percent": 0.041991342
+          },
+          {
+            "name": "广合科技",
+            "symbol": "001389.SZ",
+            "change_percent": 0.0389937107
+          },
+          {
+            "name": "纳微科技",
+            "symbol": "688690.SS",
+            "change_percent": 0.0365030675
+          },
+          {
+            "name": "中金黄金",
+            "symbol": "600489.SS",
+            "change_percent": 0.0363636364
+          },
+          {
+            "name": "超声电子",
+            "symbol": "000823.SZ",
+            "change_percent": 0.0326086957
+          },
+          {
+            "name": "联讯仪器",
+            "symbol": "688808.SS",
+            "change_percent": 0.02898527
+          },
+          {
+            "name": "源杰科技",
+            "symbol": "688498.SS",
+            "change_percent": 0.0280210158
+          },
+          {
+            "name": "广汇能源",
+            "symbol": "600256.SS",
+            "change_percent": 0.0276872964
+          },
+          {
+            "name": "宝鼎科技",
+            "symbol": "002552.SZ",
+            "change_percent": 0.0263752826
+          }
+        ],
+        "constituent_count": 50,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "17428174",
+        "plate_name": "强势人气股",
+        "core_avg_pcp": 0.006754916992063493,
+        "top10_stocks": [
+          {
+            "name": "金辰股份",
+            "symbol": "603396.SS",
+            "change_percent": 0.1001727116
+          },
+          {
+            "name": "好当家",
+            "symbol": "600467.SS",
+            "change_percent": 0.1
+          },
+          {
+            "name": "克来机电",
+            "symbol": "603960.SS",
+            "change_percent": 0.1
+          },
+          {
+            "name": "澳弘电子",
+            "symbol": "605058.SS",
+            "change_percent": 0.0999482134
+          },
+          {
+            "name": "全筑股份",
+            "symbol": "603030.SS",
+            "change_percent": 0.0996168582
+          },
+          {
+            "name": "东方海洋",
+            "symbol": "002086.SZ",
+            "change_percent": 0.0944700461
+          },
+          {
+            "name": "杭州解百",
+            "symbol": "600814.SS",
+            "change_percent": 0.0778443114
+          },
+          {
+            "name": "德龙汇能",
+            "symbol": "000593.SZ",
+            "change_percent": 0.0749756573
+          },
+          {
+            "name": "九阳股份",
+            "symbol": "002242.SZ",
+            "change_percent": 0.0679460581
+          },
+          {
+            "name": "龙版传媒",
+            "symbol": "605577.SS",
+            "change_percent": 0.0654018972
+          }
+        ],
+        "constituent_count": 64,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "17249694",
+        "plate_name": "举牌",
+        "core_avg_pcp": 0.005389588776000002,
+        "top10_stocks": [
+          {
+            "name": "科达制造",
+            "symbol": "600499.SS",
+            "change_percent": 0.1002592913
+          },
+          {
+            "name": "德龙汇能",
+            "symbol": "000593.SZ",
+            "change_percent": 0.0749756573
+          },
+          {
+            "name": "润邦股份",
+            "symbol": "002483.SZ",
+            "change_percent": 0.0698151951
+          },
+          {
+            "name": "中石科技",
+            "symbol": "300684.SZ",
+            "change_percent": 0.0141196013
+          },
+          {
+            "name": "同洲电子",
+            "symbol": "002052.SZ",
+            "change_percent": 0.012195122
+          },
+          {
+            "name": "海南瑞泽",
+            "symbol": "002596.SZ",
+            "change_percent": 0.0117647059
+          },
+          {
+            "name": "滨化股份",
+            "symbol": "601678.SS",
+            "change_percent": 0.010178117
+          },
+          {
+            "name": "ST椰岛",
+            "symbol": "600238.SS",
+            "change_percent": 0.0096618357
+          },
+          {
+            "name": "中山公用",
+            "symbol": "000685.SZ",
+            "change_percent": 0.0010277492
+          },
+          {
+            "name": "亚康股份",
+            "symbol": "301085.SZ",
+            "change_percent": 0.0002167317
+          }
+        ],
+        "constituent_count": 26,
+        "skipped_no_data": 0
+      }
+    ]
+  }
+}
