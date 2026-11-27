@@ -1,0 +1,542 @@
+{
+  "date": "2026-11-27",
+  "tabs": {
+    "行业板块": [
+      {
+        "plate_id": "16844702",
+        "plate_name": "半导体",
+        "core_avg_pcp": 0.13558822079166674,
+        "top10_stocks": [
+          {
+            "name": "旋极信息",
+            "symbol": "300324.SZ",
+            "change_percent": 0.2003968254
+          },
+          {
+            "name": "粤芯半导",
+            "symbol": "301660.SZ",
+            "change_percent": 0.2001488095
+          },
+          {
+            "name": "燕东微",
+            "symbol": "688172.SS",
+            "change_percent": 0.2001270648
+          },
+          {
+            "name": "甬矽电子",
+            "symbol": "688362.SS",
+            "change_percent": 0.2001225866
+          },
+          {
+            "name": "英杰电气",
+            "symbol": "300820.SZ",
+            "change_percent": 0.2000991818
+          },
+          {
+            "name": "杰华特",
+            "symbol": "688141.SS",
+            "change_percent": 0.2000721631
+          },
+          {
+            "name": "腾景科技",
+            "symbol": "688195.SS",
+            "change_percent": 0.2000469043
+          },
+          {
+            "name": "富创精密",
+            "symbol": "688409.SS",
+            "change_percent": 0.2000419595
+          },
+          {
+            "name": "国科微",
+            "symbol": "300672.SZ",
+            "change_percent": 0.2000407208
+          },
+          {
+            "name": "华海诚科",
+            "symbol": "688535.SS",
+            "change_percent": 0.2000306326
+          }
+        ],
+        "constituent_count": 422,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "19426649",
+        "plate_name": "PCB板",
+        "core_avg_pcp": 0.12160242416792458,
+        "top10_stocks": [
+          {
+            "name": "波长光电",
+            "symbol": "301421.SZ",
+            "change_percent": 0.2
+          },
+          {
+            "name": "芯碁微装",
+            "symbol": "688630.SS",
+            "change_percent": 0.2
+          },
+          {
+            "name": "埃科光电",
+            "symbol": "688610.SS",
+            "change_percent": 0.2
+          },
+          {
+            "name": "弘信电子",
+            "symbol": "300657.SZ",
+            "change_percent": 0.1882591093
+          },
+          {
+            "name": "生益电子",
+            "symbol": "688183.SS",
+            "change_percent": 0.1881987578
+          },
+          {
+            "name": "德龙激光",
+            "symbol": "688170.SS",
+            "change_percent": 0.1861035422
+          },
+          {
+            "name": "利和兴",
+            "symbol": "301013.SZ",
+            "change_percent": 0.1827904716
+          },
+          {
+            "name": "金禄电子",
+            "symbol": "301282.SZ",
+            "change_percent": 0.1806746712
+          },
+          {
+            "name": "方邦股份",
+            "symbol": "688020.SS",
+            "change_percent": 0.1805934826
+          },
+          {
+            "name": "三孚新科",
+            "symbol": "688359.SS",
+            "change_percent": 0.1791489362
+          }
+        ],
+        "constituent_count": 124,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "1008158",
+        "plate_name": "被动元件",
+        "core_avg_pcp": 0.11198088252499999,
+        "top10_stocks": [
+          {
+            "name": "利和兴",
+            "symbol": "301013.SZ",
+            "change_percent": 0.1827904716
+          },
+          {
+            "name": "龙磁科技",
+            "symbol": "300835.SZ",
+            "change_percent": 0.1814973063
+          },
+          {
+            "name": "英唐智控",
+            "symbol": "300131.SZ",
+            "change_percent": 0.1752837327
+          },
+          {
+            "name": "斯迪克",
+            "symbol": "300806.SZ",
+            "change_percent": 0.1730931607
+          },
+          {
+            "name": "春光集团",
+            "symbol": "301531.SZ",
+            "change_percent": 0.1663372859
+          },
+          {
+            "name": "昀冢科技",
+            "symbol": "688260.SS",
+            "change_percent": 0.1652513197
+          },
+          {
+            "name": "三环集团",
+            "symbol": "300408.SZ",
+            "change_percent": 0.1539660277
+          },
+          {
+            "name": "国瓷材料",
+            "symbol": "300285.SZ",
+            "change_percent": 0.1539170507
+          },
+          {
+            "name": "铂科新材",
+            "symbol": "300811.SZ",
+            "change_percent": 0.1378640777
+          },
+          {
+            "name": "麦捷科技",
+            "symbol": "300319.SZ",
+            "change_percent": 0.1291666667
+          }
+        ],
+        "constituent_count": 45,
+        "skipped_no_data": 0
+      }
+    ],
+    "概念板块": [
+      {
+        "plate_id": "89343809",
+        "plate_name": "高带宽存储器HBM",
+        "core_avg_pcp": 0.15584746203947372,
+        "top10_stocks": [
+          {
+            "name": "华海诚科",
+            "symbol": "688535.SS",
+            "change_percent": 0.2000306326
+          },
+          {
+            "name": "江丰电子",
+            "symbol": "300666.SZ",
+            "change_percent": 0.2000114817
+          },
+          {
+            "name": "华海清科",
+            "symbol": "688120.SS",
+            "change_percent": 0.2000110169
+          },
+          {
+            "name": "拓荆科技",
+            "symbol": "688072.SS",
+            "change_percent": 0.2000043846
+          },
+          {
+            "name": "精测电子",
+            "symbol": "300567.SZ",
+            "change_percent": 0.2
+          },
+          {
+            "name": "中微公司",
+            "symbol": "688012.SS",
+            "change_percent": 0.2
+          },
+          {
+            "name": "芯源微",
+            "symbol": "688037.SS",
+            "change_percent": 0.2
+          },
+          {
+            "name": "盛美上海",
+            "symbol": "688082.SS",
+            "change_percent": 0.2
+          },
+          {
+            "name": "芯碁微装",
+            "symbol": "688630.SS",
+            "change_percent": 0.2
+          },
+          {
+            "name": "耐科装备",
+            "symbol": "688419.SS",
+            "change_percent": 0.2
+          }
+        ],
+        "constituent_count": 55,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "6374814",
+        "plate_name": "大硅片",
+        "core_avg_pcp": 0.14800982377647062,
+        "top10_stocks": [
+          {
+            "name": "盛美上海",
+            "symbol": "688082.SS",
+            "change_percent": 0.2
+          },
+          {
+            "name": "华虹宏力",
+            "symbol": "688347.SS",
+            "change_percent": 0.2
+          },
+          {
+            "name": "有研硅",
+            "symbol": "688432.SS",
+            "change_percent": 0.2
+          },
+          {
+            "name": "安集科技",
+            "symbol": "688019.SS",
+            "change_percent": 0.1999895129
+          },
+          {
+            "name": "神工股份",
+            "symbol": "688233.SS",
+            "change_percent": 0.1963575466
+          },
+          {
+            "name": "上海新阳",
+            "symbol": "300236.SZ",
+            "change_percent": 0.1944798979
+          },
+          {
+            "name": "鼎龙股份",
+            "symbol": "300054.SZ",
+            "change_percent": 0.188697318
+          },
+          {
+            "name": "沪硅产业",
+            "symbol": "688126.SS",
+            "change_percent": 0.1710945802
+          },
+          {
+            "name": "晶升股份",
+            "symbol": "688478.SS",
+            "change_percent": 0.1681222707
+          },
+          {
+            "name": "西安奕材",
+            "symbol": "688783.SS",
+            "change_percent": 0.1675511751
+          }
+        ],
+        "constituent_count": 20,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "47530770",
+        "plate_name": "芯粒Chiplet",
+        "core_avg_pcp": 0.1479263694210526,
+        "top10_stocks": [
+          {
+            "name": "甬矽电子",
+            "symbol": "688362.SS",
+            "change_percent": 0.2001225866
+          },
+          {
+            "name": "芯原股份",
+            "symbol": "688521.SS",
+            "change_percent": 0.2000267237
+          },
+          {
+            "name": "盛合晶微",
+            "symbol": "688820.SS",
+            "change_percent": 0.2
+          },
+          {
+            "name": "微导纳米",
+            "symbol": "688147.SS",
+            "change_percent": 0.1999549143
+          },
+          {
+            "name": "光力科技",
+            "symbol": "300480.SZ",
+            "change_percent": 0.1998128217
+          },
+          {
+            "name": "寒武纪",
+            "symbol": "688256.SS",
+            "change_percent": 0.1868165668
+          },
+          {
+            "name": "燧原科技",
+            "symbol": "688801.SS",
+            "change_percent": 0.1853822135
+          },
+          {
+            "name": "深科达",
+            "symbol": "688328.SS",
+            "change_percent": 0.1813393529
+          },
+          {
+            "name": "联瑞新材",
+            "symbol": "688300.SS",
+            "change_percent": 0.1810051107
+          },
+          {
+            "name": "南亚新材",
+            "symbol": "688519.SS",
+            "change_percent": 0.1729041387
+          }
+        ],
+        "constituent_count": 24,
+        "skipped_no_data": 0
+      }
+    ],
+    "风格板块": [
+      {
+        "plate_id": "13011026",
+        "plate_name": "高价股",
+        "core_avg_pcp": 0.1165284307957143,
+        "top10_stocks": [
+          {
+            "name": "国科微",
+            "symbol": "300672.SZ",
+            "change_percent": 0.2000407208
+          },
+          {
+            "name": "长川科技",
+            "symbol": "300604.SZ",
+            "change_percent": 0.2000239263
+          },
+          {
+            "name": "新易盛",
+            "symbol": "300502.SZ",
+            "change_percent": 0.2000211607
+          },
+          {
+            "name": "超纯应材",
+            "symbol": "301717.SZ",
+            "change_percent": 0.2000185031
+          },
+          {
+            "name": "江丰电子",
+            "symbol": "300666.SZ",
+            "change_percent": 0.2000114817
+          },
+          {
+            "name": "精测电子",
+            "symbol": "300567.SZ",
+            "change_percent": 0.2
+          },
+          {
+            "name": "宏景科技",
+            "symbol": "301396.SZ",
+            "change_percent": 0.1999792121
+          },
+          {
+            "name": "汇成真空",
+            "symbol": "301392.SZ",
+            "change_percent": 0.1999605211
+          },
+          {
+            "name": "中际旭创",
+            "symbol": "300308.SZ",
+            "change_percent": 0.1998465759
+          },
+          {
+            "name": "天孚通信",
+            "symbol": "300394.SZ",
+            "change_percent": 0.1979998507
+          }
+        ],
+        "constituent_count": 72,
+        "skipped_no_data": 2
+      },
+      {
+        "plate_id": "17864537",
+        "plate_name": "次新股",
+        "core_avg_pcp": 0.11317349756790118,
+        "top10_stocks": [
+          {
+            "name": "粤芯半导",
+            "symbol": "301660.SZ",
+            "change_percent": 0.2001488095
+          },
+          {
+            "name": "超纯应材",
+            "symbol": "301717.SZ",
+            "change_percent": 0.2000185031
+          },
+          {
+            "name": "恒运昌",
+            "symbol": "688785.SS",
+            "change_percent": 0.2
+          },
+          {
+            "name": "优迅股份",
+            "symbol": "688807.SS",
+            "change_percent": 0.2
+          },
+          {
+            "name": "强一股份",
+            "symbol": "688809.SS",
+            "change_percent": 0.2
+          },
+          {
+            "name": "盛合晶微",
+            "symbol": "688820.SS",
+            "change_percent": 0.2
+          },
+          {
+            "name": "臻宝科技",
+            "symbol": "688797.SS",
+            "change_percent": 0.1999860831
+          },
+          {
+            "name": "钶锐锶",
+            "symbol": "688827.SS",
+            "change_percent": 0.1999447285
+          },
+          {
+            "name": "宇树科技",
+            "symbol": "688836.SS",
+            "change_percent": 0.1992492492
+          },
+          {
+            "name": "高凯技术",
+            "symbol": "688835.SS",
+            "change_percent": 0.1973933649
+          }
+        ],
+        "constituent_count": 81,
+        "skipped_no_data": 0
+      },
+      {
+        "plate_id": "54856094",
+        "plate_name": "科创50",
+        "core_avg_pcp": 0.10826265586400004,
+        "top10_stocks": [
+          {
+            "name": "芯原股份",
+            "symbol": "688521.SS",
+            "change_percent": 0.2000267237
+          },
+          {
+            "name": "华海清科",
+            "symbol": "688120.SS",
+            "change_percent": 0.2000110169
+          },
+          {
+            "name": "拓荆科技",
+            "symbol": "688072.SS",
+            "change_percent": 0.2000043846
+          },
+          {
+            "name": "中微公司",
+            "symbol": "688012.SS",
+            "change_percent": 0.2
+          },
+          {
+            "name": "盛美上海",
+            "symbol": "688082.SS",
+            "change_percent": 0.2
+          },
+          {
+            "name": "盛科通信",
+            "symbol": "688702.SS",
+            "change_percent": 0.2
+          },
+          {
+            "name": "中科飞测",
+            "symbol": "688361.SS",
+            "change_percent": 0.1999815982
+          },
+          {
+            "name": "生益电子",
+            "symbol": "688183.SS",
+            "change_percent": 0.1881987578
+          },
+          {
+            "name": "寒武纪",
+            "symbol": "688256.SS",
+            "change_percent": 0.1868165668
+          },
+          {
+            "name": "海光信息",
+            "symbol": "688041.SS",
+            "change_percent": 0.180453509
+          }
+        ],
+        "constituent_count": 50,
+        "skipped_no_data": 0
+      }
+    ]
+  }
+}
